@@ -1,5 +1,5 @@
 #linux 
-This is where essential most binaries are stored in the Linux file system. Programs like [[ls]] and [[bash]] are stored here. Some programs like user programs might be stored somewhere else like `/usr/bin`
+This is where essential most binaries are stored in the [[Linux]] file system. Programs like [[ls]] and [[bash]] are stored here. Some programs like user programs might be stored somewhere else like `/usr/bin`
 
 The bin directory cannot contain sub directory’s.
 

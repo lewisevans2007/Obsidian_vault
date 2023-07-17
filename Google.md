@@ -1,0 +1,1 @@
+Google is a multinational technology company that specializes in internet-related services and products.

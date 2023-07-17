@@ -1,5 +1,5 @@
 #linux
-The boot directory contains all the files needed to boot the system. In this folder there is:
+The boot directory contains all the files needed to boot the [[Linux]] system. In this folder there is:
 - The configuration file
 - The Linux kernel file
 - The Linux system map file

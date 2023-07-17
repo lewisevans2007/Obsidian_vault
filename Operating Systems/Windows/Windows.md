@@ -6,7 +6,7 @@
 1. Microsoft [[Edge]] (Web Browser)
 2. [[[Windows Security]]] (Antivirus and Security)
 3. [[Microsoft Store]] (App Store)
-4. Microsoft [[Office Apps]] (Word, Excel, PowerPoint, etc.)
+4. [[Microsoft Office]] Apps (Word, Excel, PowerPoint, etc.)
 5. [[Windows Media Player]] (Media Player)
 6. Photos (Image Viewer)
 7. [[Groove Music]] (Music Player)

@@ -1,4 +1,4 @@
-The `sbin` folder contains programs that are executed by root and cant be executed by a normal user.
+The `sbin` folder in [[Linux]] contains programs that are executed by root and cant be executed by a normal user.
 
 ## Common programs in sbin
 1. [[init]]

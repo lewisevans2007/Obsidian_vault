@@ -1,0 +1,1 @@
+DDoS (Distributed Denial of Service), is an attacking method to bring down a service or website. In  DDoS attack there are several computers that send traffic to overload a system

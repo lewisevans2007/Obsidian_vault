@@ -2,7 +2,7 @@ Microsoft is a multinational technology company founded by Bill Gates and Paul A
 
 ## Services by Microsoft
 - Microsoft [[Windows]] (Operating System)
-- Microsoft [[Office]] (Productivity Suite)
+- [[Microsoft Office]] (Productivity Suite)
 - Microsoft [[Azure]] (Cloud Computing Platform)
 - Microsoft [[Visual Studio ]](Development Tools)
 - [[Microsoft SQL Server]] (Relational Database Management System)

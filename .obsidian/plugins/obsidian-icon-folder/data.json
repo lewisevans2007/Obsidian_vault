@@ -32,5 +32,6 @@
   "Operating Systems/Windows": "FabWindows",
   "Other": "FarFile",
   "Attachments": "FasLink",
-  "README.md": "FabReadme"
+  "README.md": "FabReadme",
+  "Other/Microsoft": "FabMicrosoft"
 }

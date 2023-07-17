@@ -1,4 +1,5 @@
 #linux
+Here are a list of folders found in the root of the [[Linux]] operating system.
 1. /: The root directory of the file system.
 2. /[[bin]]: Contains essential binary files (executable programs) required for system operation.
 3. /[[boot]]: Contains files related to the boot process, including the kernel and bootloader configuration.

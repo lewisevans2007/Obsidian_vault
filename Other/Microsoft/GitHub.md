@@ -1,0 +1,1 @@
+Github is a code hosting platform that uses [[Git]] version control. It was acquired by [[Microsoft]].
