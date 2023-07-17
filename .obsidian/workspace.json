@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1eb5307f9b35587e",
+        "id": "acd5f1962b62b4da",
         "type": "tabs",
         "children": [
           {
-            "id": "6826e813f9152b88",
+            "id": "296b3e20888aeaa9",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -136,7 +136,7 @@
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": true,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -150,7 +150,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3304408052794562,
+                  "scale": 0.5041062323311117,
                   "close": true
                 }
               }
@@ -189,8 +189,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:Open today's daily note": false,
@@ -199,10 +199,29 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f46c1a11f718d984",
+  "active": "296b3e20888aeaa9",
   "lastOpenFiles": [
-    "Google.md",
-    "Ransomware.md",
+    "Operating Systems/Windows/PowerShell.md",
+    "Excalidraw/Drawing 2023-07-17 18.40.21.excalidraw.md",
+    "Operating Systems/Windows/Windows.md",
+    "Excalidraw",
+    "Cybersecurity/Ransomware.md",
+    "Operating Systems/Windows/System Configuration.md",
+    "Attachments/Pasted image 20230717183832.png",
+    "The Internet/Internet protocols.md",
+    "The Internet/TCP handshakes.md",
+    "The Internet/TCP.md",
+    "The Internet/SSH.md",
+    "The Internet/DNS.md",
+    "The Internet/FTP.md",
+    "The Internet/HTTPS.md",
+    "Cybersecurity/Malware/Emotet.md",
+    "Attachments/Emotet_example.png",
+    "Attachments/Emotet_example_2.png",
+    "Attachments/IOS_homepage.png",
+    "Other/Virtual Machine.md",
+    "Cybersecurity/Malware/Wannacry.md",
+    "Other/Google.md",
     "Operating Systems/Linux/Linux programs/ps.md",
     "Operating Systems/Linux/initrd.img.md",
     "Operating Systems/Linux/Linux programs/ping.md",
@@ -214,31 +233,13 @@
     "Operating Systems/Linux/Linux File System/bin.md",
     "Operating Systems/Linux/Linux programs",
     "SSL.md",
-    "Cybersecurity/Malware/Emotet.md",
-    "Other/Git.md",
-    "The Internet/DNS.md",
-    "Programming/Python/Python.md",
-    "Operating Systems/Linux/Linux File System/boot.md",
-    "Operating Systems/Linux/Linux File System/The Linux file system.md",
-    "Operating Systems/Linux/Linux File System/dev.md",
-    "Operating Systems/Linux/Linux File System/sbin.md",
-    "Other/Microsoft/Bing.md",
-    "The Internet/HTTP/HTTP.md",
-    "The Internet/HTTP/POST.md",
-    "Other/Microsoft/Microsoft Office.md",
-    "Operating Systems/Windows/Windows.md",
-    "Other/Microsoft/OneDrive.md",
     "Other/Microsoft",
     "Untitled.canvas",
     "Attachments/Url_demo.png",
-    "Attachments/Emotet_example_2.png",
     "Operating Systems/Untitled.canvas",
-    "Attachments/IOS_homepage.png",
-    "Attachments/Emotet_example.png",
     "Attachments/iPadOS_homepage.jpg",
     "Attachments/Wannacry_message.png",
     "Other",
-    "Excalidraw",
     "Operating Systems/Windows",
     "Operating Systems/Apple",
     "Attachments/Pasted image 20230714190312.jpg",
@@ -247,7 +248,6 @@
     "Operating Systems/Linux",
     "Attachments/Pasted image 20230714163759.png",
     "Pasted image 20230714163720.png",
-    "Attachments",
-    "Pasted image 20230714151908.png"
+    "Attachments"
   ]
 }
