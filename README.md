@@ -11,4 +11,4 @@ This is my Obsidian Vault. It contains all my research notes.
 > **Note**
 > Images may also be copyright protected. If you find a image that violates the license, please make a issue on this repository and I will remove it.
 
-To read these notes you need to hav Obsidian installed. You can download it from [here](https://obsidian.md/).
+To read these notes you need to have Obsidian installed. You can download it from [here](https://obsidian.md/).
