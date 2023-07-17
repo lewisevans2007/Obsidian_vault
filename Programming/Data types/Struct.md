@@ -1,0 +1,1 @@
+Represents a composite data type that groups together related data items with different data types.

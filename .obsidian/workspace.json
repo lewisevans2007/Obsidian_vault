@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "4690388e394d7750",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfab645b22160eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995c1e50dc73b14f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "739b692506e9326f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb28fcf842ef7422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46c1a11f718d984",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a276b2a79d492ca4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9403e06641fce8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5eaa7799a78bf80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3bf0019aac23721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f23a5b4cd24150a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea7a1f45c9216799",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9f615c5939f9b03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36d1b1054aa8d654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "b802e37bad730249",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "28a0a055e06d8313",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "995c1e50dc73b14f",
+  "lastOpenFiles": [
+    "Programming/HTML.md",
+    "README.md",
+    "The Internet/HTTPS.md",
+    "Untitled",
+    "The Internet/HTTP/HTTP Codes/HTTP Codes.md",
+    "The Internet/HTTP/HTTP Codes/500.md",
+    "The Internet/HTTP/HTTP Codes/404.md",
+    "The Internet/HTTP/HTTP Codes/403.md",
+    "The Internet/HTTP/HTTP Codes/401.md",
+    "The Internet/HTTP/HTTP Codes/400.md",
+    "The Internet/HTTP/HTTP Codes/302.md",
+    "The Internet/HTTP/HTTP Codes/200.md",
+    "The Internet/HTTP/HTTP Codes/201.md",
+    "The Internet/HTTP/HTTP Codes/204.md",
+    "The Internet/HTTP/HTTP Codes/301.md",
+    "The Internet/HTTP/CONNECT.md",
+    "The Internet/HTTP/GET.md",
+    "The Internet/HTTP/HTTP.md",
+    "The Internet/HTTP/TRACE.md",
+    "The Internet/HTTP/PATCH.md",
+    "The Internet/HTTP/HTTP Methods.md",
+    "The Internet/HTTP/PUT.md",
+    "The Internet/HTTP/POST.md",
+    "The Internet/HTTP/OPTIONS.md",
+    "The Internet/HTTP/DELETE.md",
+    "The Internet/HTTP/HEAD.md",
+    "The Internet/Internet protocols.md",
+    "Attachments/Url_demo.png",
+    "Attachments/Emotet_example_2.png",
+    "Operating Systems/Untitled.canvas",
+    "Attachments/IOS_homepage.png",
+    "Attachments/Emotet_example.png",
+    "Attachments/iPadOS_homepage.jpg",
+    "Attachments/Wannacry_message.png",
+    "Other",
+    "Untitled.canvas",
+    "Excalidraw",
+    "Operating Systems/Windows",
+    "Operating Systems/Apple",
+    "Attachments/Pasted image 20230714190312.jpg",
+    "Operating Systems/Linux/Linux File System",
+    "Operating Systems",
+    "Operating Systems/Linux",
+    "Attachments/Pasted image 20230714163759.png",
+    "Pasted image 20230714163720.png",
+    "Attachments",
+    "Pasted image 20230714151908.png",
+    "Cybersecurity/Hacking groups"
+  ]
+}

@@ -1,0 +1,1 @@
+Represents a memory address pointing to another value or object.

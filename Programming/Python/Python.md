@@ -1,0 +1,1 @@
+Python is a programming language that is used my many people due to it's easy to read syntax and many packages on PyPi. Python is available on [[Windows]], [[Linux]] and [[MacOS]]

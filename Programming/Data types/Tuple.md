@@ -1,0 +1,1 @@
+Represents an ordered collection of elements of different data types, which are typically immutable.

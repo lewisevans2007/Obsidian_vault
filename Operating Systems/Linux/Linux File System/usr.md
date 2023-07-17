@@ -1,0 +1,1 @@
+A directory in the [[linux]] file system for shareable read only data. For example documentation, header files and binaries.

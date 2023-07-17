@@ -1,0 +1,1 @@
+Contains temporary data created by the kernel and programs

@@ -1,0 +1,1 @@
+Represents decimal numbers with fractional parts (e.g., 3.14, -2.5, 0.001).

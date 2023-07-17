@@ -1,0 +1,1 @@
+Represents a collection of key-value pairs, where each value is associated with a unique key.

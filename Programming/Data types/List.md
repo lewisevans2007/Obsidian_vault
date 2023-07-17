@@ -1,0 +1,1 @@
+Similar to an array, but can dynamically grow and shrink in size.

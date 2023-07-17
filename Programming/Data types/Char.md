@@ -1,0 +1,1 @@
+Represents a single character (e.g., 'a', 'B', '9', '$').

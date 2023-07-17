@@ -1,0 +1,1 @@
+Represents a collection of elements of the same data type, stored in contiguous memory locations.

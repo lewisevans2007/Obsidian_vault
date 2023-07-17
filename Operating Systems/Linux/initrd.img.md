@@ -1,0 +1,2 @@
+#linux 
+`Intrid.img` stands for initial ramdisk which is a scheme for a loading temporary root file system into memory which will be used as part of the Linux startup process. It is an important part of the [[Linux]] operating system

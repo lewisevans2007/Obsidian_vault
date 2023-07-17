@@ -1,0 +1,1 @@
+The opt folder is reserved for add-n application software packages

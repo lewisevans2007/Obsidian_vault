@@ -1,0 +1,1 @@
+Represents a set of named values, usually used to define a set of constants.
