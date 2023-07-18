@@ -1,3 +1,4 @@
+#linux 
 The `date` command prints or sets the system date
 
 ## Usage

@@ -1,3 +1,4 @@
+#linux 
 The `cat` command reads data from the file and gives its content as output.
 
 ## Usage

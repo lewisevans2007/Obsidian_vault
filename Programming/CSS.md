@@ -192,7 +192,7 @@ When multiple CSS rules target the same element, the specificity of the selector
 
 ## CSS Frameworks
 
-CSS frameworks like Bootstrap, Foundation, and Bulma provide pre-designed CSS and [[HTML]] templates, making it easier to create responsive and visually appealing web pages. These frameworks offer a grid system, UI components, and pre-styled elements, saving development time and effort.
+CSS frameworks like [[Bootstrap]], [[Foundation]], and [[Bulma]] provide pre-designed CSS and [[HTML]] templates, making it easier to create responsive and visually appealing web pages. These frameworks offer a grid system, UI components, and pre-styled elements, saving development time and effort.
 
 ## Conclusion
 

@@ -1,3 +1,4 @@
+#linux 
 The `ping` command is a widely used network troubleshooting tool that is available on [[Linux]] operating systems.
 
 The `ping` command sends out a [[IMCP]] Echo Reply packet to the destination host and waits for a [[IMCP]] Echo Reply packets in response. This helps determine the availability and latency of the network connection.

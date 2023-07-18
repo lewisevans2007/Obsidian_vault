@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acd5f1962b62b4da",
+        "id": "bca99b73fb5dbbd7",
         "type": "tabs",
         "children": [
           {
-            "id": "296b3e20888aeaa9",
+            "id": "6313890da7ab82f8",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 261.5
   },
   "right": {
     "id": "5eaa7799a78bf80e",
@@ -110,7 +110,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -150,7 +150,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5041062323311117,
+                  "scale": 0.3304408052794563,
                   "close": true
                 }
               }
@@ -199,55 +199,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "296b3e20888aeaa9",
+  "active": "6313890da7ab82f8",
   "lastOpenFiles": [
+    "Operating Systems/Windows/Device Manager.md",
     "Operating Systems/Windows/PowerShell.md",
-    "Excalidraw/Drawing 2023-07-17 18.40.21.excalidraw.md",
     "Operating Systems/Windows/Windows.md",
-    "Excalidraw",
-    "Cybersecurity/Ransomware.md",
     "Operating Systems/Windows/System Configuration.md",
-    "Attachments/Pasted image 20230717183832.png",
-    "The Internet/Internet protocols.md",
-    "The Internet/TCP handshakes.md",
-    "The Internet/TCP.md",
-    "The Internet/SSH.md",
-    "The Internet/DNS.md",
-    "The Internet/FTP.md",
-    "The Internet/HTTPS.md",
-    "Cybersecurity/Malware/Emotet.md",
-    "Attachments/Emotet_example.png",
-    "Attachments/Emotet_example_2.png",
-    "Attachments/IOS_homepage.png",
-    "Other/Virtual Machine.md",
-    "Cybersecurity/Malware/Wannacry.md",
-    "Other/Google.md",
-    "Operating Systems/Linux/Linux programs/ps.md",
-    "Operating Systems/Linux/initrd.img.md",
-    "Operating Systems/Linux/Linux programs/ping.md",
-    "Operating Systems/Linux/Linux programs/date.md",
-    "Operating Systems/Linux/Linux programs/cp.md",
-    "Operating Systems/Linux/Linux programs/chmod.md",
-    "Operating Systems/Linux/Linux programs/cat.md",
-    "Operating Systems/Linux/Linux programs/bash.md",
-    "Operating Systems/Linux/Linux File System/bin.md",
-    "Operating Systems/Linux/Linux programs",
-    "SSL.md",
-    "Other/Microsoft",
-    "Untitled.canvas",
-    "Attachments/Url_demo.png",
-    "Operating Systems/Untitled.canvas",
+    "Operating Systems/Windows/Control Panel.md",
     "Attachments/iPadOS_homepage.jpg",
+    "Attachments/Device_manager_windows_10.png",
+    "Attachments/Windows_Powershell.png",
+    "Attachments/Control_Panel_windows_10.png",
+    "Attachments/Windows_10_desktop.png",
+    "The Internet/URL.md",
+    "Excalidraw/Parts of a url.excalidraw.md",
+    "Attachments/System_Configuration_windows_10.png",
     "Attachments/Wannacry_message.png",
+    "Other/OpenAI.md",
+    "Other/ChatGPT.md",
+    "README.md",
+    "Attachments/Url_demo.png",
+    "The Internet/TLD.md",
+    "Attachments/Parts of a url.png",
+    "Parts.md",
+    "Attachments/Emotet_example.png",
+    "Excalidraw/Drawing 2023-07-18 14.57.13.excalidraw.md",
+    "The Internet/Internet protocols.md",
+    "The Internet/DNS.md",
+    "The Internet/HTTP/GET.md",
+    "The Internet/HTTP/HTTP Methods.md",
+    "The Internet/HTTP/HEAD.md",
+    "The Internet/HTTP/DELETE.md",
+    "The Internet/TCP Flags/SYN-ACK.md",
+    "The Internet/TCP Flags/RST.md",
+    "The Internet/TCP Flags/ACK.md",
+    "The Internet/FTP.md",
+    "Excalidraw",
+    "Programming/Python/Python.md",
+    "Operating Systems/Linux/Linux.md",
+    "Untitled.canvas",
+    "Programming/Python/Tutorial",
+    "Templates",
+    "Cybersecurity/Malware/Families",
+    "Operating Systems/Linux/Linux programs",
+    "Other/Microsoft",
+    "Operating Systems/Untitled.canvas",
     "Other",
     "Operating Systems/Windows",
     "Operating Systems/Apple",
-    "Attachments/Pasted image 20230714190312.jpg",
-    "Operating Systems/Linux/Linux File System",
-    "Operating Systems",
-    "Operating Systems/Linux",
-    "Attachments/Pasted image 20230714163759.png",
-    "Pasted image 20230714163720.png",
-    "Attachments"
+    "Operating Systems/Linux/Linux File System"
   ]
 }

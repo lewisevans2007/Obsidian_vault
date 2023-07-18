@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPen",
       "FabReadme",
       "FabMicrosoft",
       "FasLink",
-      "FarFile",
-      "FabWindows"
+      "FarFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,6 @@
   "Other": "FarFile",
   "Attachments": "FasLink",
   "README.md": "FabReadme",
-  "Other/Microsoft": "FabMicrosoft"
+  "Other/Microsoft": "FabMicrosoft",
+  "Excalidraw": "FasPen"
 }

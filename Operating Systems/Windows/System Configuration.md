@@ -1,4 +1,5 @@
 #windows 
+![[System_Configuration_windows_10.png|500]]
 The System Configuration page in Windows is a utility that allows you to manage various start up and system settings on your computer. It provides a centralized location to modify settings that can impact the way your computer boots up and functions.
 
 ## Pages in system configuration

@@ -1,3 +1,4 @@
+#linux 
 `chmod` changes the permissions of a file or directory
 
 ## Usage

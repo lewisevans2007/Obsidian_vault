@@ -18,7 +18,7 @@ The resolver then sends a query to the [[TLD]] nameserver to obtain the [[IP]] a
 The resolver sends a query to the authoritative nameserver for the domain. This nameserver is typically managed by the domain owner or their DNS provider. The authoritative nameserver responds with the requested [[IP]] address if it has the mapping in its records.
 
 ### Caching
-The resolver receives the [[IP]] address from the authoritative nameserver and stores it in its cache for future use, reducing the need for repeated queries for the same domain name.
+The resolver receives the [[IP]] address from the authoritative nameserver and stores it in its cache for future use, reducing the need for repeated queries for the same domain name. This can reduce [[Latency]].
 
 ### Response to the Application
 The resolver sends the [[IP]] address back to the application that initiated the DNS query, such as a web browser. The application can then use the [[IP]] address to establish a connection with the desired web server.

@@ -1,0 +1,1 @@
+The time it takes to complete a task or transmit data. Also known as the delay in a network. Latency is measured in milliseconds (ms). The lower the latency, the better. Latency is also known as ping. The higher the ping the slower the connection. Ping can fluctuate but in a [[DDoS]] attack this can go up to the point where connections cannot be made.

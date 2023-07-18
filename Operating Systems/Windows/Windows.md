@@ -1,4 +1,5 @@
 #windows
+![[Windows_10_desktop.png|500]]
 [[Microsoft]] Windows (also known as Windows or Win) is a graphical operating system developed and published by Microsoft. It provides a way to store files, run software, play games, watch videos, and connect to the Internet. [Source](https://www.computerhope.com/jargon/w/windows.htm)
 
 ## Default Programs:

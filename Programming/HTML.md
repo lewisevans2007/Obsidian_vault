@@ -1,6 +1,6 @@
 #web
 
-HTML (Hypertext Markup Language) is the standard markup language used for creating and structuring web pages. It provides a set of tags that define the elements and content within a webpage. In this article, we will explore the basics of HTML and learn how to create a simple webpage using HTML markup.
+HTML (Hypertext Markup Language) is the standard markup language used for creating and structuring web pages. It provides a set of tags that define the elements and content within a webpage.
 
 ## Tags
 
@@ -57,5 +57,3 @@ HTML provides a wide range of tags that you can use to structure and format the 
 - `<hr>`: Represents a thematic break.
 - `<style>`: Defines inline [[CSS]] styles.
 - `<script>`: Embeds or references an external [[JavaScript]] file.
-
-This is not an exhaustive list, but it covers many of the commonly used HTML tags. Each tag serves a specific purpose in structuring and formatting the content of your web page.

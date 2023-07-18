@@ -12,4 +12,4 @@ Operating Systems for Virtual Machines:
 2. [[Linux]]: Numerous Linux distributions can be run on virtual machines, such as Ubuntu, CentOS, Debian, Fedora, and openSUSE.
 3. [[macOS]]: Virtual machines can host macOS, allowing users to run multiple macOS instances on non-Apple hardware.
 4. [[BSD]]: Operating systems like FreeBSD and OpenBSD can be virtualized for development or server purposes.
-5. [[Unix]]: Variants of Unix, such as Solaris and AIX, can be run on virtual machines for testing or legacy application support.-
+5. [[Unix]]: Variants of Unix, such as Solaris and AIX, can be run on virtual machines for testing or legacy application support.
