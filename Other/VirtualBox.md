@@ -1,0 +1,1 @@
+Virtual box is a hypervisor for x86 based operating systems like [[Windows]], [[Linux]] and some versions of [[MacOS]]. It can be also used to emulate old operating systems like [[MS-DOS]] and [[OS 2]]

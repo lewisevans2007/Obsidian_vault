@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bca99b73fb5dbbd7",
+        "id": "52e51fdd6668e97c",
         "type": "tabs",
         "children": [
           {
-            "id": "6313890da7ab82f8",
+            "id": "6ad0386bbf12cd74",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 200
   },
   "right": {
     "id": "5eaa7799a78bf80e",
@@ -199,11 +199,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6313890da7ab82f8",
+  "active": "6ad0386bbf12cd74",
   "lastOpenFiles": [
+    "Operating Systems/Windows/Windows.md",
+    "Other/Microsoft/Microsoft.md",
+    "Operating Systems/MS-DOS.md",
+    "Other/VirtualBox.md",
+    "Other/Virtual Machine.md",
+    "Other/VMware Workstation.md",
+    "Other/PID.md",
+    "Other/Macro.md",
+    "README.md",
+    "Other/macro-enabled documents.md",
+    "Other/OpenAI",
+    "Other/OpenAI/Whisper.md",
+    "Other/OpenAI/OpenAI.md",
     "Operating Systems/Windows/Device Manager.md",
     "Operating Systems/Windows/PowerShell.md",
-    "Operating Systems/Windows/Windows.md",
     "Operating Systems/Windows/System Configuration.md",
     "Operating Systems/Windows/Control Panel.md",
     "Attachments/iPadOS_homepage.jpg",
@@ -215,9 +227,7 @@
     "Excalidraw/Parts of a url.excalidraw.md",
     "Attachments/System_Configuration_windows_10.png",
     "Attachments/Wannacry_message.png",
-    "Other/OpenAI.md",
     "Other/ChatGPT.md",
-    "README.md",
     "Attachments/Url_demo.png",
     "The Internet/TLD.md",
     "Attachments/Parts of a url.png",
@@ -228,15 +238,7 @@
     "The Internet/DNS.md",
     "The Internet/HTTP/GET.md",
     "The Internet/HTTP/HTTP Methods.md",
-    "The Internet/HTTP/HEAD.md",
-    "The Internet/HTTP/DELETE.md",
-    "The Internet/TCP Flags/SYN-ACK.md",
-    "The Internet/TCP Flags/RST.md",
-    "The Internet/TCP Flags/ACK.md",
-    "The Internet/FTP.md",
     "Excalidraw",
-    "Programming/Python/Python.md",
-    "Operating Systems/Linux/Linux.md",
     "Untitled.canvas",
     "Programming/Python/Tutorial",
     "Templates",
@@ -246,7 +248,6 @@
     "Operating Systems/Untitled.canvas",
     "Other",
     "Operating Systems/Windows",
-    "Operating Systems/Apple",
-    "Operating Systems/Linux/Linux File System"
+    "Operating Systems/Apple"
   ]
 }

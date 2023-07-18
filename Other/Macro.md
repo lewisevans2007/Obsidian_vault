@@ -1,0 +1,1 @@
+A macro is a small script that automates a task. This is commonly found as a [[macro-enabled documents|macro-enabled document]] in things like [[Microsoft Word]], [[Microsoft PowerPoint]] and [[Microsoft Excel]]
