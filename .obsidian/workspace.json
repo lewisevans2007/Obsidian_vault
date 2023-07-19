@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6fc392c3d6484f9",
+        "id": "2aceeadb8a515cc5",
         "type": "tabs",
         "children": [
           {
-            "id": "15240bcd827a49a4",
+            "id": "49d8d7620fed5eb7",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +189,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "15240bcd827a49a4",
+  "active": "49d8d7620fed5eb7",
   "lastOpenFiles": [
+    "README.md",
     "The Internet/IP addresses.md",
     "Operating Systems/Linux/Linux programs/chown.md",
     "Operating Systems/Linux/Linux programs/chmod.md",
@@ -208,7 +209,6 @@
     "Operating Systems/Linux/Linux programs/cp.md",
     "Operating Systems/Linux/Linux.md",
     "Obsidian/Page notes.md",
-    "README.md",
     "Operating Systems/Windows/Device Manager.md",
     "Operating Systems/Windows/Control Panel.md",
     "Operating Systems/Windows/PowerShell.md",

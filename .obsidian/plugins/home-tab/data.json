@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "README.md",
+      "timestamp": 1689795368323
+    },
+    {
       "filepath": "The Internet/IP addresses.md",
       "timestamp": 1689795201971
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Operating Systems/Linux/Linux programs/mkdir.md",
       "timestamp": 1689795006466
-    },
-    {
-      "filepath": "Operating Systems/Linux/Linux programs/cat.md",
-      "timestamp": 1689794328050
     }
   ],
   "starredFileStore": [],
