@@ -1,3 +1,4 @@
+#linux
 The `rm` command removes files
 
 > [!danger]

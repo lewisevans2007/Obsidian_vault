@@ -12,7 +12,7 @@
   "fontSize": "4em",
   "fontColorType": "default",
   "fontWeight": 600,
-  "maxResults": 10,
+  "maxResults": 5,
   "showStarredFiles": false,
   "showRecentFiles": false,
   "maxRecentFiles": 5,
@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Operating Systems/Windows/Windows.md",
-      "timestamp": 1689712215904
+      "filepath": "The Internet/IP addresses.md",
+      "timestamp": 1689795201971
     },
     {
-      "filepath": "Other/Microsoft/Microsoft.md",
-      "timestamp": 1689712210203
+      "filepath": "Operating Systems/Linux/Linux programs/chown.md",
+      "timestamp": 1689795055971
     },
     {
-      "filepath": "Operating Systems/MS-DOS.md",
-      "timestamp": 1689712039755
+      "filepath": "Operating Systems/Linux/Linux programs/chmod.md",
+      "timestamp": 1689795053412
     },
     {
-      "filepath": "Other/VirtualBox.md",
-      "timestamp": 1689711937686
+      "filepath": "Operating Systems/Linux/Linux programs/mkdir.md",
+      "timestamp": 1689795006466
     },
     {
-      "filepath": "Other/Virtual Machine.md",
-      "timestamp": 1689711936344
+      "filepath": "Operating Systems/Linux/Linux programs/cat.md",
+      "timestamp": 1689794328050
     }
   ],
   "starredFileStore": [],

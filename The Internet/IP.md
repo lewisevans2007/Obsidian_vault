@@ -1,0 +1,1 @@
+IP stands for internet protocol. IP is a set of rules a computer follows.

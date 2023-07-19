@@ -1,0 +1,1 @@
+Google translate is a translation service run by [[Google]]. It is a [[Neural machine translation]] system and introduced in November 2016

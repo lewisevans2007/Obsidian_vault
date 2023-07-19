@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4690388e394d7750",
+    "id": "419bcd506c40e476",
     "type": "split",
     "children": [
       {
-        "id": "52e51fdd6668e97c",
+        "id": "c6fc392c3d6484f9",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad0386bbf12cd74",
+            "id": "15240bcd827a49a4",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "739b692506e9326f",
+    "id": "38635315fb618af2",
     "type": "split",
     "children": [
       {
-        "id": "eb28fcf842ef7422",
+        "id": "adb134030cc123d6",
         "type": "tabs",
         "children": [
           {
-            "id": "f46c1a11f718d984",
+            "id": "d8bf252ddacf3948",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "a276b2a79d492ca4",
+            "id": "113e354f002b30af",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "f9403e06641fce8d",
+            "id": "b38fca96d5e8c600",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,30 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5eaa7799a78bf80e",
+    "id": "87d7422aa4e60bc7",
     "type": "split",
     "children": [
       {
-        "id": "432b0202e4c1857e",
+        "id": "d9aeee44890d2bb0",
         "type": "tabs",
-        "dimension": 56.12745098039215,
         "children": [
           {
-            "id": "ea7a1f45c9216799",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2f23a5b4cd24150a",
+            "id": "b9f93975abb112e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,18 +92,18 @@
             }
           },
           {
-            "id": "f9f615c5939f9b03",
+            "id": "a2f6085044f7921f",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outgoing-link",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "36d1b1054aa8d654",
+            "id": "7c0b38402f9133ff",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -123,7 +111,18 @@
             }
           },
           {
-            "id": "0d9cf5ad4beecc03",
+            "id": "b5b748bd4517fd45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "052745d04badae69",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -134,13 +133,13 @@
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -150,7 +149,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3304408052794563,
+                  "scale": 0.2816532814678936,
                   "close": true
                 }
               }
@@ -160,23 +159,14 @@
         "currentTab": 4
       },
       {
-        "id": "f3bf0019aac23721",
+        "id": "e195b9e774d563b1",
         "type": "tabs",
-        "dimension": 43.87254901960785,
         "children": [
           {
-            "id": "b802e37bad730249",
+            "id": "9a9bd9dc74999201",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "28a0a055e06d8313",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -184,70 +174,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false
     }
   },
-  "active": "6ad0386bbf12cd74",
+  "active": "15240bcd827a49a4",
   "lastOpenFiles": [
-    "Operating Systems/Windows/Windows.md",
-    "Other/Microsoft/Microsoft.md",
-    "Operating Systems/MS-DOS.md",
-    "Other/VirtualBox.md",
-    "Other/Virtual Machine.md",
-    "Other/VMware Workstation.md",
-    "Other/PID.md",
-    "Other/Macro.md",
-    "README.md",
-    "Other/macro-enabled documents.md",
-    "Other/OpenAI",
-    "Other/OpenAI/Whisper.md",
-    "Other/OpenAI/OpenAI.md",
-    "Operating Systems/Windows/Device Manager.md",
-    "Operating Systems/Windows/PowerShell.md",
-    "Operating Systems/Windows/System Configuration.md",
-    "Operating Systems/Windows/Control Panel.md",
-    "Attachments/iPadOS_homepage.jpg",
-    "Attachments/Device_manager_windows_10.png",
-    "Attachments/Windows_Powershell.png",
-    "Attachments/Control_Panel_windows_10.png",
-    "Attachments/Windows_10_desktop.png",
-    "The Internet/URL.md",
-    "Excalidraw/Parts of a url.excalidraw.md",
-    "Attachments/System_Configuration_windows_10.png",
-    "Attachments/Wannacry_message.png",
-    "Other/ChatGPT.md",
-    "Attachments/Url_demo.png",
-    "The Internet/TLD.md",
-    "Attachments/Parts of a url.png",
-    "Parts.md",
-    "Attachments/Emotet_example.png",
-    "Excalidraw/Drawing 2023-07-18 14.57.13.excalidraw.md",
-    "The Internet/Internet protocols.md",
-    "The Internet/DNS.md",
+    "The Internet/IP addresses.md",
+    "Operating Systems/Linux/Linux programs/chown.md",
+    "Operating Systems/Linux/Linux programs/chmod.md",
+    "Operating Systems/Linux/Linux programs/mkdir.md",
+    "Operating Systems/Linux/Linux programs/cat.md",
+    "Operating Systems/Linux/Linux programs/cd.md",
+    "Operating Systems/Linux/Linux programs/rm.md",
+    "Operating Systems/Linux/Linux programs/grep.md",
     "The Internet/HTTP/GET.md",
-    "The Internet/HTTP/HTTP Methods.md",
-    "Excalidraw",
-    "Untitled.canvas",
-    "Programming/Python/Tutorial",
-    "Templates",
-    "Cybersecurity/Malware/Families",
-    "Operating Systems/Linux/Linux programs",
-    "Other/Microsoft",
-    "Operating Systems/Untitled.canvas",
-    "Other",
-    "Operating Systems/Windows",
-    "Operating Systems/Apple"
+    "Operating Systems/Linux/Linux programs/touch.md",
+    "Operating Systems/Linux/Linux programs/pwd.md",
+    "Operating Systems/Linux/Linux programs/ps.md",
+    "Operating Systems/Linux/Linux programs/ls.md",
+    "Operating Systems/Linux/Linux programs/date.md",
+    "Operating Systems/Linux/Linux programs/cp.md",
+    "Operating Systems/Linux/Linux.md",
+    "Obsidian/Page notes.md",
+    "README.md",
+    "Operating Systems/Windows/Device Manager.md",
+    "Operating Systems/Windows/Control Panel.md",
+    "Operating Systems/Windows/PowerShell.md",
+    "Programming/Python/Tutorial/Booleans in python.md",
+    "Programming/Python/Tutorial/Comments in python.md",
+    "Programming/Python/Tutorial/Numbers in python.md",
+    "Programming/Python/Python.md",
+    "The Internet/Internet protocols.md"
   ]
 }

@@ -1,0 +1,1 @@
+neural machine translation (NMT) refers to a method of [[machine translation]] that employs a [[Artificial neural network]].

@@ -8,7 +8,7 @@ The `sbin` folder in [[Linux]] contains programs that are executed by root and c
 5. [[fdisk]]
 6. [[mount]]
 7. [[umount]]
-8. [[ip]]
+8. [[IP]]
 9. [[dhclient]]
 10. [[route]]
 11. [[arp]]
