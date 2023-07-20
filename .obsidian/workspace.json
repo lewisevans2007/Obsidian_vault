@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2aceeadb8a515cc5",
+        "id": "f97ec386abf8995c",
         "type": "tabs",
         "children": [
           {
-            "id": "49d8d7620fed5eb7",
+            "id": "25cb2f79d6cb2755",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md"
+              }
             }
           },
           {
@@ -127,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,9 +198,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "49d8d7620fed5eb7",
+  "active": "d8bf252ddacf3948",
   "lastOpenFiles": [
+    "Operating Systems/Linux/Kernel/main.c/do_basic_setup.md",
+    "Operating Systems/Linux/Kernel/main.c",
+    "Operating Systems/Linux/Kernel/main.c/main.c.md",
+    "Operating Systems/Linux/Kernel/main.c/kernel_init.md",
+    "Operating Systems/Linux/Kernel/main.c/rest_init.md",
     "README.md",
+    "init_post.md",
+    "Operating Systems/Linux/Kernel/main.c/prepare_namespace.md",
+    "Operating Systems/Linux/Kernel/The Linux souce code.md",
+    "Operating Systems/Linux/Kernel/main.c/start_kernel.md",
+    "Operating Systems/Linux/Kernel",
     "The Internet/IP addresses.md",
     "Operating Systems/Linux/Linux programs/chown.md",
     "Operating Systems/Linux/Linux programs/chmod.md",
@@ -207,15 +226,6 @@
     "Operating Systems/Linux/Linux programs/ls.md",
     "Operating Systems/Linux/Linux programs/date.md",
     "Operating Systems/Linux/Linux programs/cp.md",
-    "Operating Systems/Linux/Linux.md",
-    "Obsidian/Page notes.md",
-    "Operating Systems/Windows/Device Manager.md",
-    "Operating Systems/Windows/Control Panel.md",
-    "Operating Systems/Windows/PowerShell.md",
-    "Programming/Python/Tutorial/Booleans in python.md",
-    "Programming/Python/Tutorial/Comments in python.md",
-    "Programming/Python/Tutorial/Numbers in python.md",
-    "Programming/Python/Python.md",
-    "The Internet/Internet protocols.md"
+    "Operating Systems/Linux/Linux.md"
   ]
 }
