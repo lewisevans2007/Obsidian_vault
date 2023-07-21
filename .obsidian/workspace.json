@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f97ec386abf8995c",
+        "id": "263f2ffefc9234d0",
         "type": "tabs",
         "children": [
           {
-            "id": "25cb2f79d6cb2755",
+            "id": "a78484839f596d76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
+                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
+                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
+                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md"
+                "file": "Operating Systems/Linux/Kernel/errno-base.h.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/main.c/rest_init.md",
+                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,34 +198,36 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d8bf252ddacf3948",
+  "active": "a78484839f596d76",
   "lastOpenFiles": [
+    "Operating Systems/Linux/Kernel/The Linux souce code.md",
+    "Operating Systems/Linux/Kernel/Linux kernel error codes.md",
+    "Operating Systems/Linux/Kernel/errno-base.h.md",
+    "Operating Systems/Linux/Kernel/Kernel types/types.h.md",
+    "Operating Systems/Linux/Kernel/Kernel types/uid_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/time_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/ssize_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/size_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/pid_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/off_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/nlink_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/mode_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/ino_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/gid_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/dev_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/blkcnt_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types",
+    "Operating Systems/Linux/Kernel/main.c/rest_init.md",
     "Operating Systems/Linux/Kernel/main.c/do_basic_setup.md",
     "Operating Systems/Linux/Kernel/main.c",
     "Operating Systems/Linux/Kernel/main.c/main.c.md",
     "Operating Systems/Linux/Kernel/main.c/kernel_init.md",
-    "Operating Systems/Linux/Kernel/main.c/rest_init.md",
     "README.md",
     "init_post.md",
     "Operating Systems/Linux/Kernel/main.c/prepare_namespace.md",
-    "Operating Systems/Linux/Kernel/The Linux souce code.md",
     "Operating Systems/Linux/Kernel/main.c/start_kernel.md",
     "Operating Systems/Linux/Kernel",
     "The Internet/IP addresses.md",
-    "Operating Systems/Linux/Linux programs/chown.md",
-    "Operating Systems/Linux/Linux programs/chmod.md",
-    "Operating Systems/Linux/Linux programs/mkdir.md",
-    "Operating Systems/Linux/Linux programs/cat.md",
-    "Operating Systems/Linux/Linux programs/cd.md",
-    "Operating Systems/Linux/Linux programs/rm.md",
-    "Operating Systems/Linux/Linux programs/grep.md",
-    "The Internet/HTTP/GET.md",
-    "Operating Systems/Linux/Linux programs/touch.md",
-    "Operating Systems/Linux/Linux programs/pwd.md",
-    "Operating Systems/Linux/Linux programs/ps.md",
-    "Operating Systems/Linux/Linux programs/ls.md",
-    "Operating Systems/Linux/Linux programs/date.md",
-    "Operating Systems/Linux/Linux programs/cp.md",
-    "Operating Systems/Linux/Linux.md"
+    "Operating Systems/Linux/Linux programs/chown.md"
   ]
 }
