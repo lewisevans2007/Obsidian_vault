@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14c26e4a6cd8a8be",
+        "id": "fb1225a5208b2b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "f84c5dab8b27deb9",
+            "id": "bfe6773d24a9e9b4",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -143,11 +143,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f84c5dab8b27deb9",
+  "active": "bfe6773d24a9e9b4",
   "lastOpenFiles": [
+    "Operating Systems/Linux/Kernel/Kernel types/ssize_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/types.h.md",
     "Operating Systems/Linux/Kernel/Kernel types/time_t.md",
     "Operating Systems/Linux/Kernel/Kernel types/blkcnt_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/types.h.md",
     "Operating Systems/Linux/Kernel/Kernel types/nlink_t.md",
     "Operating Systems/Linux/Linux File System/The Linux file system.md",
     "Operating Systems/Linux/Kernel/Kernel types/ino_t.md",
@@ -162,7 +163,6 @@
     "Fish.md",
     "Operating Systems/Linux/Kernel/Kernel types/gid_t.md",
     "Operating Systems/Linux/Kernel/Kernel types",
-    "Operating Systems/Linux/Kernel/Kernel types/ssize_t.md",
     "Operating Systems/Linux/Kernel/main.c/main.c.md",
     "Obsidian/Page notes.md",
     "Operating Systems/Linux/Kernel/Kernel types/off_t.md",
