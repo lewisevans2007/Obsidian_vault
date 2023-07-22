@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Operating Systems/Apple/MacOS.md",
+      "timestamp": 1690057075551
+    },
+    {
+      "filepath": "Operating Systems/Operating system.md",
+      "timestamp": 1690057072616
+    },
+    {
       "filepath": "Programming/Python/Modules/os/os.md",
       "timestamp": 1690056904946
     },
     {
       "filepath": "Programming/Python/Modules/os/os.path.basename().md",
       "timestamp": 1690056854077
-    },
-    {
-      "filepath": "Programming/Python/Modules/os/os.listdir().md",
-      "timestamp": 1690056834808
-    },
-    {
-      "filepath": "The Internet/Server.md",
-      "timestamp": 1690056834228
-    },
-    {
-      "filepath": "The Internet/FTP.md",
-      "timestamp": 1690056833607
     }
   ],
   "starredFileStore": [],

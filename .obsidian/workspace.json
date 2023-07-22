@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "629da8d2b5eec95b",
+        "id": "149535470bef05a8",
         "type": "tabs",
         "children": [
           {
-            "id": "40ae60326db9b85d",
+            "id": "8d73485855863b6f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -190,8 +190,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "40ae60326db9b85d",
+  "active": "8d73485855863b6f",
   "lastOpenFiles": [
+    "Operating Systems/Linux/Linux programs/htop.md",
+    "Operating Systems/Apple/MacOS.md",
+    "Operating Systems/Operating system.md",
+    "htop.md",
     "Programming/Python/Modules/os/os.md",
     "Programming/Python/Modules/os/os.path.basename().md",
     "Programming/Python/Modules/os",
@@ -216,9 +220,6 @@
     "The Internet/os.md",
     "Programming/Visual Basic Scripting.md",
     "Other/macro-enabled documents.md",
-    "Other/AI/Artificial neural network.md",
-    "Other/ChatGPT.md",
-    "GPT 3.md",
     "Other/Virtual Machine",
     "Other/Microsoft/Office",
     "Other/Microsoft/Azure",

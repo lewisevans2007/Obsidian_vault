@@ -1,2 +1,2 @@
-#Apple
+#Apple #macos 
 MacOS is an operating system that is Unix like and is similar to [[Linux]] but is proprietary. It is developed of apple and the kernel is called [[Darwin]] which powers other operating systems like [[iOS]] and [[iPadOS]]
