@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "263f2ffefc9234d0",
+        "id": "55771641f2c57f35",
         "type": "tabs",
         "children": [
           {
-            "id": "a78484839f596d76",
+            "id": "bb94f9fe78a95fad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Operating Systems/Linux/Kernel/errno-base.h.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating Systems/Linux/Kernel/errno-base.h.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +149,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2816532814678936,
+                  "scale": 0.2816532814678938,
                   "close": true
                 }
               }
@@ -188,9 +179,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Open quick switcher": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -198,36 +190,40 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a78484839f596d76",
+  "active": "bb94f9fe78a95fad",
   "lastOpenFiles": [
-    "Operating Systems/Linux/Kernel/The Linux souce code.md",
-    "Operating Systems/Linux/Kernel/Linux kernel error codes.md",
-    "Operating Systems/Linux/Kernel/errno-base.h.md",
-    "Operating Systems/Linux/Kernel/Kernel types/types.h.md",
-    "Operating Systems/Linux/Kernel/Kernel types/uid_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/time_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/ssize_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/size_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/pid_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/off_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/nlink_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/mode_t.md",
+    "Programming/Python/Python.md",
+    "Operating Systems/Linux/Kernel/PID/alloc_pid.md",
+    "Operating Systems/Linux/Kernel/PID/free_pid.md",
+    "Operating Systems/Linux/Kernel/PID/pid.c.md",
+    "Operating Systems/Linux/Kernel/Kernel types/blkcnt_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/dev_t.md",
     "Operating Systems/Linux/Kernel/Kernel types/ino_t.md",
     "Operating Systems/Linux/Kernel/Kernel types/gid_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/dev_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types/blkcnt_t.md",
-    "Operating Systems/Linux/Kernel/Kernel types",
+    "Operating Systems/Linux/Kernel/Kernel types/mode_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/nlink_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/pid_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/ssize_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/time_t.md",
+    "Operating Systems/Linux/Kernel/Kernel types/types.h.md",
+    "Operating Systems/Linux/Kernel/Kernel types/uid_t.md",
     "Operating Systems/Linux/Kernel/main.c/rest_init.md",
-    "Operating Systems/Linux/Kernel/main.c/do_basic_setup.md",
-    "Operating Systems/Linux/Kernel/main.c",
+    "Operating Systems/Linux/Kernel/main.c/prepare_namespace.md",
     "Operating Systems/Linux/Kernel/main.c/main.c.md",
     "Operating Systems/Linux/Kernel/main.c/kernel_init.md",
-    "README.md",
-    "init_post.md",
-    "Operating Systems/Linux/Kernel/main.c/prepare_namespace.md",
+    "Operating Systems/Linux/Kernel/main.c/do_basic_setup.md",
     "Operating Systems/Linux/Kernel/main.c/start_kernel.md",
-    "Operating Systems/Linux/Kernel",
-    "The Internet/IP addresses.md",
-    "Operating Systems/Linux/Linux programs/chown.md"
+    "Operating Systems/Linux/Kernel/errno-base.h.md",
+    "Operating Systems/Linux/Kernel/Linux kernel error codes.md",
+    "Operating Systems/Linux/Kernel/The Linux souce code.md",
+    "Operating Systems/Linux/Linux.md",
+    "Linux source code.md",
+    "Operating Systems/Linux/Distros",
+    "Attachments/yum_cheet_sheet.pdf",
+    "Operating Systems/Linux/Kernel/PID/pid.c",
+    "Operating Systems/Linux/Kernel/PID",
+    "Operating Systems/Linux/Kernel/Kernel types",
+    "Operating Systems/Linux/Kernel/main.c",
+    "Operating Systems/Linux/Kernel"
   ]
 }

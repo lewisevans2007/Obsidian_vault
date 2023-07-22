@@ -18,7 +18,7 @@ The bin directory cannot contain sub directory’s.
 12. [[ps]]
 13. [[rm]]
 14. [[sed]]
-15. [[sh]]
+15. [[Sh]]
 16. [[tar]]
 17. [[touch]]
 18. [[uname]]

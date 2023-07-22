@@ -1,0 +1,1 @@
+A kernel is a part of an [[Operating system]] that manages the hardware and software of a computer. It is the most important part of an operating system. It is the first part of an operating system that runs when a computer is turned on and it is the part of an operating system that all other parts of an operating system run on top of.

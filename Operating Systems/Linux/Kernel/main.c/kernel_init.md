@@ -1,5 +1,5 @@
 #linux 
-This function performs the primary initialization of the kernel, including memory allocation, initializing the scheduler, creating the root file system, and setting up basic hardware and system data structures.
+This function performs the primary initialization of the [[kernel]], including memory allocation, initializing the scheduler, creating the root file system, and setting up basic hardware and system data structures.
 
 ## Code
 ```c

@@ -29,4 +29,7 @@
 ## Main source code files
 
 - [[main.c]] - Contains the main function of the kernel.
-
+- [[errno-base.h]] - Contains the error codes of the kernel.
+- [[types.h]] - Contains the types of the kernel.
+- [[init.c]] - Contains the initialization of the kernel.
+- [[panic.c]] - Contains the panic functions of the kernel.

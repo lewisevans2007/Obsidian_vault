@@ -1,5 +1,5 @@
 #linux
-The `main.c` file contains the main function of the kernel.
+The `main.c` file contains the main function of the [[kernel]].
 
 - [[start_kernel]]
 - [[rest_init]]
