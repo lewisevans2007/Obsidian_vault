@@ -25,6 +25,6 @@ VBS seamlessly integrates with other technologies and scripting languages, such 
 VBS supports the use of external libraries and components through the Component Object Model (COM). This extensibility enables developers to incorporate functionality from third-party libraries and create custom solutions tailored to their specific needs.
 
 ---
-#### References
+#### See also
 [[Microsoft Office]]
 [[Windows]]

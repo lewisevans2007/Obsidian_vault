@@ -3,7 +3,7 @@ An artificial neural network is a network of interconnected nodes inspired by th
 ![[Artificial neural network.excalidraw|500]]
 
 ---
-#### References
+#### See also
 [[AI]]
 [[Neural machine translation]]
 

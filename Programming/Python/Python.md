@@ -18,7 +18,7 @@ Python is a programming language that is used my many people due to it's easy to
 
 ## Python Modules
 Python has a set of built-in modules that you can use in your programs without having to install them.
-- [[OS]]
+- [[os]]
 - [[Sys]]
 - [[Time]]
 - [[Random]]
