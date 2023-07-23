@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "149535470bef05a8",
+        "id": "411bf2932eb83b92",
         "type": "tabs",
         "children": [
           {
-            "id": "8d73485855863b6f",
+            "id": "dd36aeabe8f1f7d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/DDoS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af38b781d192c045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Malware/Session Hijacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8d742eed691e1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Phishing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cybersecurity/Malware/Session Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cybersecurity/Malware/Session Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cybersecurity/Malware/Session Hijacking.md"
+              }
             }
           },
           {
@@ -127,6 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cybersecurity/Malware/Session Hijacking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,44 +224,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8d73485855863b6f",
+  "active": "d8bf252ddacf3948",
   "lastOpenFiles": [
-    "Operating Systems/Linux/Linux programs/htop.md",
-    "Operating Systems/Apple/MacOS.md",
-    "Operating Systems/Operating system.md",
-    "htop.md",
-    "Programming/Python/Modules/os/os.md",
-    "Programming/Python/Modules/os/os.path.basename().md",
+    "Cybersecurity/Advanced Persistent Threats.md",
+    "Cybersecurity/Attacking methods.md",
+    "Cybersecurity/Malware/Session Hijacking.md",
+    "Cybersecurity/Malware/Watering Hole Attacks.md",
+    "Cybersecurity/Eavesdropping.md",
+    "Cybersecurity/Insider Threats.md",
+    "Cybersecurity/Malware/Social Engineering.md",
+    "Cybersecurity/Password Attacks.md",
+    "Cybersecurity/Malware/Zero-Day Exploits.md",
+    "Cybersecurity/Malware/XSS.md",
+    "Cybersecurity/Phishing.md",
+    "Cybersecurity/Malware/SQL Injection.md",
+    "README.md",
+    "Cybersecurity/Cross-Site Scripting.md",
+    "Cybersecurity/Man-in-the-Middle.md",
+    "Cybersecurity/Denial of Service.md",
+    "Cybersecurity/DDoS.md",
+    "The Internet/Internet protocols.md",
+    "Operating Systems/Linux/Linux File System/bin.md",
+    "Cybersecurity/Malware/Malware.md",
+    "Other/Git.md",
+    "Operating Systems/Linux/Linux File System/sbin.md",
+    "Programming/Python/Python.md",
+    "Programming/Python/Modules/sys/sys.md",
+    "Obsidian/Page notes.md",
+    "Programming/Python/Modules/sys/sys.argv.md",
+    "Programming/Python/Other",
+    "Programming/Python/Modules/sys",
     "Programming/Python/Modules/os",
     "Programming/Python/Modules",
-    "Programming/Python/Modules/os/os.listdir().md",
-    "The Internet/Server.md",
-    "The Internet/FTP.md",
-    "The Internet/HTTPS.md",
-    "Programming/Python/Modules/os/os.path.abspath().md",
-    "Programming/Data types/String.md",
-    "Programming/Python/Modules/os/os.path.join().md",
-    "Programming/Python/Modules/os/os.path.isfile().md",
-    "Programming/Python/Modules/os/os.path.isdir().md",
-    "Programming/Python/Modules/os/os.path.getsize().md",
-    "Programming/Python/Modules/os/os.path.exists().md",
-    "Programming/Python/Modules/os/os.chdir().md",
-    "Programming/Python/Modules/os/os.getcwd().md",
-    "Programming/Python/Modules/os/os.mkdir().md",
-    "Programming/Python/Modules/os/os.path.md",
-    "Programming/Python/Tutorial/Booleans in python.md",
-    "Programming/Python/Python.md",
-    "The Internet/os.md",
-    "Programming/Visual Basic Scripting.md",
-    "Other/macro-enabled documents.md",
     "Other/Virtual Machine",
     "Other/Microsoft/Office",
     "Other/Microsoft/Azure",
     "Attachments/edge.jpg",
     "Operating Systems/Linux/Distros",
     "Attachments/yum_cheet_sheet.pdf",
-    "Operating Systems/Linux/Kernel/PID/pid.c",
-    "Operating Systems/Linux/Kernel/PID",
-    "Operating Systems/Linux/Kernel/Kernel types"
+    "Operating Systems/Linux/Kernel/PID/pid.c"
   ]
 }

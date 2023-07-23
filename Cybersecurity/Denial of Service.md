@@ -1,0 +1,1 @@
+ (DoS) and Distributed Denial of Service ([[DDoS]]): Overwhelming a system, network, or website with excessive traffic or requests, causing it to become unavailable.

@@ -1,0 +1,1 @@
+Intercepting and potentially altering communications between two parties without their knowledge.

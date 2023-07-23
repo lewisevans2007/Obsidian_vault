@@ -1,4 +1,7 @@
-#python 
+#python #todo
+> [!todo]- This document is in progress
+> This document is in progress and has been marked with the `#todo` tag
+
 Python is a programming language that is used my many people due to it's easy to read syntax and many packages on PyPi. Python is available on [[Windows]], [[Linux]] and [[MacOS]]
 
 ## Python tutorial
@@ -19,7 +22,7 @@ Python is a programming language that is used my many people due to it's easy to
 ## Python Modules
 Python has a set of built-in modules that you can use in your programs without having to install them.
 - [[os]]
-- [[Sys]]
+- [[sys]]
 - [[Time]]
 - [[Random]]
 - [[Math]]

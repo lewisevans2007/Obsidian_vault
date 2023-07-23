@@ -1,0 +1,1 @@
+Sending deceptive emails or messages to trick individuals into revealing sensitive information, such as login credentials or financial details.

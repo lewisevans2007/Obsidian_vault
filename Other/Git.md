@@ -1,3 +1,7 @@
+#todo
+> [!todo]- This document is in progress
+> This document is in progress and has been marked with the `#todo` tag
+
 Git is a opensource and free version control system for [[Windows]] , [[MacOS]] and [[Linux]]. It is designed to  work with everything from small to very large projects.
 
 ## Git commands

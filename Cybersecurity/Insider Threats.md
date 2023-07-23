@@ -1,0 +1,1 @@
+Attacks or data breaches facilitated by individuals with authorized access to an organization's systems.

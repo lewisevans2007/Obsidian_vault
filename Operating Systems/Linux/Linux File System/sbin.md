@@ -1,3 +1,7 @@
+#linux #todo
+> [!todo]- This document is in progress
+> This document is in progress and has been marked with the `#todo` tag
+
 The `sbin` folder in [[Linux]] contains programs that are executed by root and cant be executed by a normal user.
 
 ## Common programs in sbin

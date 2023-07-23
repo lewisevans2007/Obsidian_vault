@@ -1,0 +1,1 @@
+Injecting malicious scripts into web pages viewed by other users to steal information or perform actions on their behalf.

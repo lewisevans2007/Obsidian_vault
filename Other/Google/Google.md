@@ -15,3 +15,4 @@ Google is a multinational technology company that specializes in internet-relate
 - [[Google Maps]]
 - [[Google Earth]]
 - [[Google Street View]]
+- [[Google Cloud Platform]]
