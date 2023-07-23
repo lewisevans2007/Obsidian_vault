@@ -1,0 +1,1 @@
+SQL stands for Structured Query Language. It is a language used to communicate with the [[database]]. It is used to create and manipulate [[database|databases]].
