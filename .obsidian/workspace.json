@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "411bf2932eb83b92",
+        "id": "b79df5ae169d6b53",
         "type": "tabs",
         "children": [
           {
-            "id": "dd36aeabe8f1f7d5",
+            "id": "5f9d6df4eb67d431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/DDoS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af38b781d192c045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Malware/Session Hijacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8d742eed691e1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Phishing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Malware/Session Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Malware/Session Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cybersecurity/Malware/Session Hijacking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cybersecurity/Malware/Session Hijacking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,34 +190,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d8bf252ddacf3948",
+  "active": "5f9d6df4eb67d431",
   "lastOpenFiles": [
+    "Excalidraw/Parts of a url.excalidraw.md",
+    "Excalidraw/generative ai.excalidraw.md",
+    "Excalidraw/Artificial neural network.excalidraw.md",
+    "Other/AI/Generative AI.md",
+    "Other/AI/Artificial neural network.md",
+    "Other/AI/AI.md",
+    "Other/AI/Neural machine translation.md",
+    "Other/ChatGPT.md",
+    "Cybersecurity/Phishing.md",
+    "Cybersecurity/Password Attacks.md",
+    "Obsidian/Page notes.md",
+    "Programming/Python/Python.md",
+    "Cybersecurity/Malware/Session Hijacking.md",
     "Cybersecurity/Advanced Persistent Threats.md",
     "Cybersecurity/Attacking methods.md",
-    "Cybersecurity/Malware/Session Hijacking.md",
     "Cybersecurity/Malware/Watering Hole Attacks.md",
     "Cybersecurity/Eavesdropping.md",
     "Cybersecurity/Insider Threats.md",
     "Cybersecurity/Malware/Social Engineering.md",
-    "Cybersecurity/Password Attacks.md",
     "Cybersecurity/Malware/Zero-Day Exploits.md",
     "Cybersecurity/Malware/XSS.md",
-    "Cybersecurity/Phishing.md",
     "Cybersecurity/Malware/SQL Injection.md",
     "README.md",
     "Cybersecurity/Cross-Site Scripting.md",
     "Cybersecurity/Man-in-the-Middle.md",
     "Cybersecurity/Denial of Service.md",
-    "Cybersecurity/DDoS.md",
-    "The Internet/Internet protocols.md",
-    "Operating Systems/Linux/Linux File System/bin.md",
-    "Cybersecurity/Malware/Malware.md",
-    "Other/Git.md",
-    "Operating Systems/Linux/Linux File System/sbin.md",
-    "Programming/Python/Python.md",
-    "Programming/Python/Modules/sys/sys.md",
-    "Obsidian/Page notes.md",
-    "Programming/Python/Modules/sys/sys.argv.md",
     "Programming/Python/Other",
     "Programming/Python/Modules/sys",
     "Programming/Python/Modules/os",

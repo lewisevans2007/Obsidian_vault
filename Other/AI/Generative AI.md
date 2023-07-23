@@ -1,0 +1,2 @@
+![[generative ai.excalidraw]]
+Generative AI is a subset of machine learning that involves the use of artificial intelligence to generate new content, such as text, images, audio and video. It is used to mimic human creativity and produce something that was not previously there. Generative AI is used in a variety of applications, including language generation, image editing, speech synthesis, and chatbots
