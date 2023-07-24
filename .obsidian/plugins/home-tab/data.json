@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Other/Google/Google Search.md",
+      "timestamp": 1690204083508
+    },
+    {
+      "filepath": "Search engine.md",
+      "timestamp": 1690204017311
+    },
+    {
       "filepath": "Cybersecurity/Malware/Keylogger.md",
       "timestamp": 1690135225074
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Cybersecurity/Malware/Rootkit.md",
       "timestamp": 1690135165383
-    },
-    {
-      "filepath": "Other/Microsoft/Azure/Azure.md",
-      "timestamp": 1690135087768
-    },
-    {
-      "filepath": "Other/Microsoft/Azure/Azure Cosmos DB.md",
-      "timestamp": 1690135087079
     }
   ],
   "starredFileStore": [],

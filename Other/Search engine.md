@@ -1,0 +1,1 @@
+A Search Engine is used to search things on the web. [[Google]] and [[Bing]] are search engines.

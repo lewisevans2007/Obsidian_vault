@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7ebe38e96d9353",
+        "id": "08fb8356b6a1ff85",
         "type": "tabs",
         "children": [
           {
-            "id": "a6824117d068eb26",
+            "id": "c95774e6337e0e5f",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -155,8 +155,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e195b9e774d563b1",
@@ -190,8 +189,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a6824117d068eb26",
+  "active": "c95774e6337e0e5f",
   "lastOpenFiles": [
+    "Other/Google/Google Search.md",
+    "Other/Search engine.md",
     "Cybersecurity/Malware/Keylogger.md",
     "Cybersecurity/Malware/Malware.md",
     "Cybersecurity/Malware/Rootkit.md",
@@ -216,8 +217,6 @@
     "Operating Systems/Linux/Linux programs/wc.md",
     "Operating Systems/Linux/Linux programs/tar.md",
     "Excalidraw/Parts of a url.excalidraw.md",
-    "Excalidraw/generative ai.excalidraw.md",
-    "Excalidraw/Artificial neural network.excalidraw.md",
     "Programming/Python/Other",
     "Programming/Python/Modules/sys",
     "Programming/Python/Modules/os",

@@ -1,6 +1,6 @@
 #google
 
-Google search is a [[search engine]] by [[Google]]. It is the most popular search engine in the world.
+Google search is a [[Search engine]] by [[Google]]. It is the most popular search engine in the world.
 
 ## Search parameters
 
