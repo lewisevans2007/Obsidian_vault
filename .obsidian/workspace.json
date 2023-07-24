@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Windows/Windows 2.md",
+                "file": "Operating Systems/MS-DOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Windows/Windows 2.md",
+                "file": "Operating Systems/MS-DOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Windows/Windows 2.md",
+                "file": "Operating Systems/MS-DOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Windows/Windows 2.md"
+                "file": "Operating Systems/MS-DOS.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating Systems/Windows/Windows 2.md",
+                "file": "Operating Systems/MS-DOS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,12 +198,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d8bf252ddacf3948",
+  "active": "5b9d5a69c7a03aa9",
   "lastOpenFiles": [
+    "Operating Systems/Windows/Windows 2.md",
     "Operating Systems/Windows/Versions",
     "Operating Systems/Windows/Windows 1.0.md",
     "Attachments/Windows 2.0.png",
-    "Operating Systems/Windows/Windows 2.md",
     "Operating Systems/Windows/Windows.md",
     "Attachments/Windows 1.0.png",
     "Attachments/Pasted image 20230724180855.png",
@@ -238,7 +238,6 @@
     "Other/Microsoft/Azure",
     "Attachments/edge.jpg",
     "Operating Systems/Linux/Distros",
-    "Attachments/yum_cheet_sheet.pdf",
-    "Operating Systems/Linux/Kernel/PID/pid.c"
+    "Attachments/yum_cheet_sheet.pdf"
   ]
 }

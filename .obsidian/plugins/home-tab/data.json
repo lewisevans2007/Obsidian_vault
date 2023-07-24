@@ -24,11 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Windows 2.md",
+      "filepath": "Operating Systems/MS-DOS.md",
+      "timestamp": 1690218843079
+    },
+    {
+      "filepath": "Operating Systems/Windows/Windows 2.md",
       "timestamp": 1690218806200
     },
     {
-      "filepath": "Windows 1.0.md",
+      "filepath": "Operating Systems/Windows/Windows 1.0.md",
       "timestamp": 1690218793221
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "Operating Systems/Windows/Windows.md",
       "timestamp": 1690218713895
-    },
-    {
-      "filepath": "Attachments/Windows 1.0.png",
-      "timestamp": 1690218712196
     }
   ],
   "starredFileStore": [],
