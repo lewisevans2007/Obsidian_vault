@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "08fb8356b6a1ff85",
+        "id": "c027768c5f0701b2",
         "type": "tabs",
         "children": [
           {
-            "id": "c95774e6337e0e5f",
+            "id": "5b9d5a69c7a03aa9",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Windows/Windows 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating Systems/Windows/Windows 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating Systems/Windows/Windows 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operating Systems/Windows/Windows 2.md"
+              }
             }
           },
           {
@@ -127,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Operating Systems/Windows/Windows 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,8 +198,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c95774e6337e0e5f",
+  "active": "d8bf252ddacf3948",
   "lastOpenFiles": [
+    "Operating Systems/Windows/Versions",
+    "Operating Systems/Windows/Windows 1.0.md",
+    "Attachments/Windows 2.0.png",
+    "Operating Systems/Windows/Windows 2.md",
+    "Operating Systems/Windows/Windows.md",
+    "Attachments/Windows 1.0.png",
+    "Attachments/Pasted image 20230724180855.png",
+    "Operating Systems/Kernel.md",
     "Other/Google/Google Search.md",
     "Other/Search engine.md",
     "Cybersecurity/Malware/Keylogger.md",
@@ -212,11 +229,6 @@
     "Operating Systems/Linux/Linux programs/sed.md",
     "Operating Systems/Linux/Linux programs/echo.md",
     "Operating Systems/Linux/Linux File System/bin.md",
-    "Operating Systems/Linux/Linux programs/whoami.md",
-    "Operating Systems/Linux/Linux programs/uname.md",
-    "Operating Systems/Linux/Linux programs/wc.md",
-    "Operating Systems/Linux/Linux programs/tar.md",
-    "Excalidraw/Parts of a url.excalidraw.md",
     "Programming/Python/Other",
     "Programming/Python/Modules/sys",
     "Programming/Python/Modules/os",
