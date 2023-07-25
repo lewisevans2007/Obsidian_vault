@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c027768c5f0701b2",
+        "id": "5bd720ce5af6c731",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9d5a69c7a03aa9",
+            "id": "7e7f96e5ccf89138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/MS-DOS.md",
+                "file": "Programming/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/MS-DOS.md",
+                "file": "Programming/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/MS-DOS.md",
+                "file": "Programming/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/MS-DOS.md"
+                "file": "Programming/C.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating Systems/MS-DOS.md",
+                "file": "Programming/C.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,8 +198,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5b9d5a69c7a03aa9",
+  "active": "d8bf252ddacf3948",
   "lastOpenFiles": [
+    "Programming/C.md",
+    "Operating Systems/MS-DOS.md",
     "Operating Systems/Windows/Windows 2.md",
     "Operating Systems/Windows/Versions",
     "Operating Systems/Windows/Windows 1.0.md",
@@ -228,7 +230,6 @@
     "Operating Systems/Linux/Linux programs/userdel.md",
     "Operating Systems/Linux/Linux programs/sed.md",
     "Operating Systems/Linux/Linux programs/echo.md",
-    "Operating Systems/Linux/Linux File System/bin.md",
     "Programming/Python/Other",
     "Programming/Python/Modules/sys",
     "Programming/Python/Modules/os",
