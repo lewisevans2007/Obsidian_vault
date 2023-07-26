@@ -1,0 +1,1 @@
+Tor, short for "The Onion Router," is a free and open-source network designed to provide online anonymity and privacy to users. It operates by routing internet traffic through a worldwide network of volunteer-run servers called nodes or relays. These nodes pass the data along a series of encrypted connections, making it challenging to trace back to the original source.

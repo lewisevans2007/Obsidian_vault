@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ca727473595bfb",
+        "id": "a7ad6deb53ab1ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "91e1706059605c4e",
+            "id": "901287b079c988e1",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
+              "type": "graph",
               "state": {}
             }
           }
@@ -155,7 +155,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "e195b9e774d563b1",
@@ -189,8 +190,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "91e1706059605c4e",
+  "active": "901287b079c988e1",
   "lastOpenFiles": [
+    "Other/OpenAI/Whisper.md",
+    "Other/OpenAI/OpenAI.md",
+    "Other/Tor.md",
+    "Excalidraw/Drawing 2023-07-26 15.15.38.excalidraw.md",
     "Attachments/Microsoft store.png",
     "Operating Systems/Windows/Microsoft Store.md",
     "Operating Systems/Windows/Windows.md",
@@ -217,9 +222,6 @@
     "Programming/Data types/Char.md",
     "Programming/languages/C/Header files/wchar.h.md",
     "Programming/languages/C/Header files/time.h.md",
-    "Programming/languages/C/Header files/stdlib.h.md",
-    "Programming/languages/C/Header files/stdio.h.md",
-    "Programming/languages/C/Header files/stdarg.h.md",
     "Programming/languages/Python/Modules/sys",
     "Programming/languages/Python/Modules/os",
     "Programming/languages/Python/Tutorial",

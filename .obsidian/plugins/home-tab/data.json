@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Attachments/Pasted image 20230726151225.png",
+      "filepath": "Other/OpenAI/Whisper.md",
+      "timestamp": 1690381026616
+    },
+    {
+      "filepath": "Other/OpenAI/OpenAI.md",
+      "timestamp": 1690381026070
+    },
+    {
+      "filepath": "Other/Tor.md",
+      "timestamp": 1690381016620
+    },
+    {
+      "filepath": "Attachments/Microsoft store.png",
       "timestamp": 1690380801740
     },
     {
       "filepath": "Operating Systems/Windows/Microsoft Store.md",
       "timestamp": 1690380705555
-    },
-    {
-      "filepath": "Operating Systems/Windows/Windows.md",
-      "timestamp": 1690380703320
-    },
-    {
-      "filepath": "Operating Systems/Windows/Programs/Control Panel.md",
-      "timestamp": 1690380695881
-    },
-    {
-      "filepath": "Operating Systems/Windows/Programs/Windows Security.md",
-      "timestamp": 1690380605112
     }
   ],
   "starredFileStore": [],
