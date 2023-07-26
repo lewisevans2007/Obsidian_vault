@@ -1,0 +1,1 @@
+`limits.h` provides constants representing the limits of various integer data types, such as the minimum and maximum values for [[int]], long, [[char]], and short.

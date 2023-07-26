@@ -1,6 +1,9 @@
+> [!danger] Do not use this information for illegal purposes. This information is for educational purposes only.
+> I am not responsible for any damage caused by you. You are responsible for your own actions. **Only use this information for good and educational purposes.**
+
 An attacker can uses several attacking methods these can be:
 
- - [[Phishing]]
+- [[Phishing]]
 - [[Ransomware]]
 - [[Denial of Service]]
 - [[Man-in-the-Middle]]

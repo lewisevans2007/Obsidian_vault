@@ -18,6 +18,7 @@ To read these notes you need to have Obsidian installed. You can download it fro
 - [[Linux]]
 - [[Malware]]
 - [[Python]]
+- [[C]]
 
 ## Main tags
 #windows 

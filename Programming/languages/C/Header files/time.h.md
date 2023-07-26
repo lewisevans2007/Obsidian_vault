@@ -1,0 +1,1 @@
+`time.h` defines functions and types for working with time and date values, including functions to retrieve the current time and convert time values between different formats.

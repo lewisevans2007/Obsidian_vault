@@ -1,0 +1,1 @@
+`locale.h` contains functions and macros related to localization and cultural conventions, allowing the program to adapt to the user's language and regional settings.

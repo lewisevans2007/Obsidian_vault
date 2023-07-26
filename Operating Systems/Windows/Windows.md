@@ -5,7 +5,7 @@
 ## Default Programs:
 
 1. Microsoft [[Edge]] (Web Browser)
-2. [[[Windows Security]]] (Antivirus and Security)
+2. [[Windows Security]] (Antivirus and Security)
 3. [[Microsoft Store]] (App Store)
 4. [[Microsoft Office]] Apps (Word, Excel, PowerPoint, etc.)
 5. [[Windows Media Player]] (Media Player)

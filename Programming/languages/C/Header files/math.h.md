@@ -1,0 +1,1 @@
+`math.h` contains a wide range of mathematical functions and constants, including trigonometric, logarithmic, exponential, and power functions, among others.

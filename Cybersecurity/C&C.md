@@ -1,0 +1,1 @@
+Command and control. Comonly used in [[NjRAT]] and in [[Botnet|Botnets]]

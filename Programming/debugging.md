@@ -1,0 +1,1 @@
+A way of fixing a program by figuring out what is going wrong in the code. IDE's like [[Visual Studio]] have debugging features.

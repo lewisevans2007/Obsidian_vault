@@ -1,0 +1,1 @@
+`stdio.h` contains functions for standard input/output operations, including reading and writing data to the console or files. It also contains macros for printing formatted output, such as `printf` and `fprintf`.

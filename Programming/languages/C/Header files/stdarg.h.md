@@ -1,0 +1,1 @@
+`stdarg.h` defines a mechanism to work with functions that take a variable number of arguments, such as the `printf` family of functions.

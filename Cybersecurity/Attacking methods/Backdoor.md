@@ -1,0 +1,2 @@
+#malware
+A backdoor is a method, often secret, of bypassing normal authentication or encryption in a computer system, a product, or an [[embedded device]]. Backdoors are often used for securing remote access to a computer, or obtaining access to plaintext in cryptographic systems.

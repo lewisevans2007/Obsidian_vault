@@ -1,0 +1,1 @@
+`setjmp.h` provides functions for implementing non-local jumps, allowing the program to transfer control to a previously saved execution context using the `setjmp` and `longjmp` functions.

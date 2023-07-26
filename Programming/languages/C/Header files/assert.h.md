@@ -1,0 +1,1 @@
+`assert.h` Provides the macro assert for [[debugging]] purposes, which can be used to check assumptions made during program development and terminate the program if the condition is false.

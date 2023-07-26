@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5bd720ce5af6c731",
+        "id": "e3ca727473595bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "7e7f96e5ccf89138",
+            "id": "91e1706059605c4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "####",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/C.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Programming/C.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,47 +189,48 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d8bf252ddacf3948",
+  "active": "91e1706059605c4e",
   "lastOpenFiles": [
-    "Programming/C.md",
-    "Operating Systems/MS-DOS.md",
-    "Operating Systems/Windows/Windows 2.md",
-    "Operating Systems/Windows/Versions",
-    "Operating Systems/Windows/Windows 1.0.md",
-    "Attachments/Windows 2.0.png",
+    "Attachments/Microsoft store.png",
+    "Operating Systems/Windows/Microsoft Store.md",
     "Operating Systems/Windows/Windows.md",
+    "Operating Systems/Windows/Programs/Control Panel.md",
+    "Operating Systems/Windows/Programs",
+    "Operating Systems/Windows/Programs/Windows Security.md",
+    "Attachments/Windows 11 security.png",
+    "Cybersecurity/C&C.md",
+    "Programming/languages/C/Header files/setjmp.h.md",
+    "Programming/languages/C/Header files/ctype.h.md",
+    "Programming/languages/C/Header files/assert.h.md",
+    "Programming/languages/C/C.md",
+    "Programming/languages/C/Header files",
+    "Programming/languages/C/Header files/float.h.md",
+    "Other/Microsoft/Azure/Azure Functions.md",
+    "Obsidian/Page notes.md",
+    "README.md",
+    "Operating Systems/Linux/Kernel/Kernel types/size_t.md",
+    "Programming/languages/C/Header files/stddef.h.md",
+    "Programming/languages/C/Header files/string.h.md",
+    "Programming/languages/C/Header files/limits.h.md",
+    "Programming/languages/C/Header files/errno.h.md",
+    "Programming/languages/C/Header files/wctype.h.md",
+    "Programming/Data types/Char.md",
+    "Programming/languages/C/Header files/wchar.h.md",
+    "Programming/languages/C/Header files/time.h.md",
+    "Programming/languages/C/Header files/stdlib.h.md",
+    "Programming/languages/C/Header files/stdio.h.md",
+    "Programming/languages/C/Header files/stdarg.h.md",
+    "Programming/languages/Python/Modules/sys",
+    "Programming/languages/Python/Modules/os",
+    "Programming/languages/Python/Tutorial",
+    "Programming/languages/Python/Other",
+    "Programming/languages/Python/Modules",
+    "Programming/languages/Python",
+    "Programming/languages/C/versions",
+    "Programming/languages/C",
+    "Attachments/Windows 2.0.png",
     "Attachments/Windows 1.0.png",
     "Attachments/Pasted image 20230724180855.png",
-    "Operating Systems/Kernel.md",
-    "Other/Google/Google Search.md",
-    "Other/Search engine.md",
-    "Cybersecurity/Malware/Keylogger.md",
-    "Cybersecurity/Malware/Malware.md",
-    "Cybersecurity/Malware/Rootkit.md",
-    "Other/Microsoft/Azure/Azure.md",
-    "Other/Microsoft/Azure/Azure Cosmos DB.md",
-    "Other/Microsoft/Azure/Azure SQL Database.md",
-    "Other/database.md",
-    "Cybersecurity/Malware/SQL Injection.md",
-    "Other/Microsoft/Office/Microsoft Access.md",
-    "Other/Microsoft/Microsoft.md",
-    "Programming/SQL.md",
-    "Operating Systems/Linux/Linux programs/init.md",
-    "Operating Systems/Linux/Linux File System/sbin.md",
-    "Operating Systems/Linux/Linux programs/usermod.md",
-    "Operating Systems/Linux/Linux.md",
-    "Operating Systems/Linux/Linux programs/userdel.md",
-    "Operating Systems/Linux/Linux programs/sed.md",
-    "Operating Systems/Linux/Linux programs/echo.md",
-    "Programming/Python/Other",
-    "Programming/Python/Modules/sys",
-    "Programming/Python/Modules/os",
-    "Programming/Python/Modules",
-    "Other/Virtual Machine",
-    "Other/Microsoft/Office",
-    "Other/Microsoft/Azure",
-    "Attachments/edge.jpg",
-    "Operating Systems/Linux/Distros",
-    "Attachments/yum_cheet_sheet.pdf"
+    "Attachments/edge.jpg"
   ]
 }
