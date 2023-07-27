@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a7ad6deb53ab1ba5",
+        "id": "841469cd2fd03826",
         "type": "tabs",
         "children": [
           {
-            "id": "901287b079c988e1",
+            "id": "465985c84b9afc26",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "home-tab-view",
               "state": {}
             }
           }
@@ -190,8 +190,26 @@
       "random-note:Open random note": false
     }
   },
-  "active": "901287b079c988e1",
+  "active": "465985c84b9afc26",
   "lastOpenFiles": [
+    "Visual Studio Code.md",
+    "Programming/languages/Python/Python.md",
+    "08 Modules in python.md",
+    "Programming/languages/Python/Tutorial/08 Modules in python.md",
+    "Programming/languages/Python/Tutorial/07 Lists in python.md",
+    "Programming/Data types/List.md",
+    "06 Strings in python.md",
+    "Programming/languages/Python/Tutorial/06 Strings in python.md",
+    "Programming/languages/Python/Tutorial/05 Booleans in python.md",
+    "Programming/languages/Python/Tutorial/04 Numbers in python.md",
+    "Programming/languages/Python/Tutorial/03 Comments in python.md",
+    "Programming/languages/Python/Tutorial/02 Variables in python.md",
+    "Programming/languages/Python/Tutorial/01 Python syntax.md",
+    "Programming/languages/C/C.md",
+    "Operating Systems/Linux/Kernel/main.c/start_kernel.md",
+    "init.c.md",
+    "Operating Systems/Linux/Kernel/main.c/main.c.md",
+    "Operating Systems/Linux/Kernel/The Linux souce code.md",
     "Other/OpenAI/Whisper.md",
     "Other/OpenAI/OpenAI.md",
     "Other/Tor.md",
@@ -203,25 +221,7 @@
     "Operating Systems/Windows/Programs",
     "Operating Systems/Windows/Programs/Windows Security.md",
     "Attachments/Windows 11 security.png",
-    "Cybersecurity/C&C.md",
-    "Programming/languages/C/Header files/setjmp.h.md",
-    "Programming/languages/C/Header files/ctype.h.md",
-    "Programming/languages/C/Header files/assert.h.md",
-    "Programming/languages/C/C.md",
     "Programming/languages/C/Header files",
-    "Programming/languages/C/Header files/float.h.md",
-    "Other/Microsoft/Azure/Azure Functions.md",
-    "Obsidian/Page notes.md",
-    "README.md",
-    "Operating Systems/Linux/Kernel/Kernel types/size_t.md",
-    "Programming/languages/C/Header files/stddef.h.md",
-    "Programming/languages/C/Header files/string.h.md",
-    "Programming/languages/C/Header files/limits.h.md",
-    "Programming/languages/C/Header files/errno.h.md",
-    "Programming/languages/C/Header files/wctype.h.md",
-    "Programming/Data types/Char.md",
-    "Programming/languages/C/Header files/wchar.h.md",
-    "Programming/languages/C/Header files/time.h.md",
     "Programming/languages/Python/Modules/sys",
     "Programming/languages/Python/Modules/os",
     "Programming/languages/Python/Tutorial",

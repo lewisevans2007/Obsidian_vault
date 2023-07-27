@@ -5,11 +5,14 @@
 Python is a programming language that is used my many people due to it's easy to read syntax and many packages on PyPi. Python is available on [[Windows]], [[Linux]] and [[MacOS]]
 
 ## Python tutorial
-- [[Python syntax]]
-- [[Variables in python]]
-- [[Comments in python]]
-- [[Numbers in python]]
-- [[Booleans in python]]
+- [[01 Python syntax]]
+- [[02 Variables in python]]
+- [[03 Comments in python]]
+- [[04 Numbers in python]]
+- [[05 Booleans in python]]
+- [[06 Strings in python]]
+- [[07 Lists in python]]
+- [[08 Modules in python]]
 
 ## Good tutorials
 [Python docs](https://docs.python.org/3/tutorial/)

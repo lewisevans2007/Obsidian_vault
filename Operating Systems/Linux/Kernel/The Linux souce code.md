@@ -33,3 +33,6 @@
 - [[types.h]] - Contains the types of the kernel.
 - [[init.c]] - Contains the initialization of the kernel.
 - [[panic.c]] - Contains the panic functions of the kernel.
+- [[printk.c]] - Contains the print functions of the kernel.
+- [[sched.c]] - Contains the scheduler of the kernel.
+
