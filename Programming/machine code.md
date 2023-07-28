@@ -1,0 +1,1 @@
+Machine code is a set of instructions executed directly by the CPU. It is the lowest level of programming language. It is the only language a computer can understand. It is a sequence of binary digits (bits), which are bits of 0 and 1, that perform a specific task. Machine code is also called machine language.

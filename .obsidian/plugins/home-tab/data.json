@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Programming/languages/Python/Python.md",
-      "timestamp": 1690473087523
+      "filepath": "The Internet/client-server model.md",
+      "timestamp": 1690575897095
     },
     {
-      "filepath": "Programming/languages/Python/Tutorial/07 Lists in python.md",
-      "timestamp": 1690473030690
+      "filepath": "The Internet/Server.md",
+      "timestamp": 1690575794264
     },
     {
-      "filepath": "Programming/Data types/List.md",
-      "timestamp": 1690473028540
+      "filepath": "The Internet/Internet protocols.md",
+      "timestamp": 1690575793443
     },
     {
-      "filepath": "Programming/languages/Python/Tutorial/05 Booleans in python.md",
-      "timestamp": 1690472618108
+      "filepath": "The Internet/IP.md",
+      "timestamp": 1690575792977
+    },
+    {
+      "filepath": "The Internet/IP addresses.md",
+      "timestamp": 1690575791569
     }
   ],
   "starredFileStore": [],

@@ -1,5 +1,1 @@
-#todo
-> [!todo]- This document is in progress
-> This document is in progress and has been marked with the `#todo` tag
-
-A server is a computer that serves a service and provides functionality for other programs and devices.
+A server is a computer that serves a service and provides functionality for other programs and devices. A server can be a physical computer or a virtual computer. Servers can be used for many different tasks, such as hosting a website, hosting a game or hosting files. Servers usually follow the [[client-server model]], where the server provides a service to the client. The client is the computer that requests the service from the server. The server is the computer that provides the service to the client. The client and server communicate with each other using a protocol. A protocol is a set of rules that govern how computers communicate with each other. The most common protocol
