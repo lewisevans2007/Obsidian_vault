@@ -1,1 +1,2 @@
+![[client server model.excalidraw|800]]
 The client-server model is a model where the server provides a service to the client. The client is the computer that requests the service from the server. The server is the computer that provides the service to the client.

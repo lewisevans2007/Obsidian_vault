@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b79c9b5bfbb657d4",
+        "id": "f792eb181ced6ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6ad4b562847355",
+            "id": "9cff959236d9f28b",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -127,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,15 +199,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bb6ad4b562847355",
+  "active": "9cff959236d9f28b",
   "lastOpenFiles": [
+    "The Internet/URL.md",
+    "Programming/debugging.md",
+    "Programming/machine code.md",
+    "Programming/languages/C/C.md",
+    "Programming/languages/C/C formmated output.md",
+    "Excalidraw/generative ai.excalidraw.md",
     "The Internet/client-server model.md",
+    "Excalidraw/client server model.excalidraw.md",
+    "Programming/languages/C/Header files/stdio.h.md",
+    "Programming/languages/C/Header files/stddef.h.md",
     "The Internet/Server.md",
     "The Internet/Internet protocols.md",
     "The Internet/IP.md",
     "The Internet/IP addresses.md",
     "The Internet/SSH.md",
-    "Programming/machine code.md",
     "Programming/languages/CSS.md",
     "The Internet/DHCP.md",
     "The Internet/DNS.md",
@@ -210,14 +227,6 @@
     "Programming/Data types/List.md",
     "06 Strings in python.md",
     "Programming/languages/Python/Tutorial/06 Strings in python.md",
-    "Programming/languages/Python/Tutorial/05 Booleans in python.md",
-    "Programming/languages/Python/Tutorial/04 Numbers in python.md",
-    "Programming/languages/Python/Tutorial/03 Comments in python.md",
-    "Programming/languages/Python/Tutorial/02 Variables in python.md",
-    "Programming/languages/Python/Tutorial/01 Python syntax.md",
-    "Programming/languages/C/C.md",
-    "Operating Systems/Linux/Kernel/main.c/start_kernel.md",
-    "init.c.md",
     "Attachments/Microsoft store.png",
     "Operating Systems/Windows/Programs",
     "Attachments/Windows 11 security.png",
