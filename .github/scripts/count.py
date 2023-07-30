@@ -1,3 +1,7 @@
+# Count.py
+# Counts the number of pages and links in the vault and updates the README.md file
+# By: Lewis Evans
+
 import os
 import re
 
