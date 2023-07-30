@@ -2,7 +2,7 @@ name: Count pages and links
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   count:
