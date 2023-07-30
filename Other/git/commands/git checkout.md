@@ -1,0 +1,1 @@
+Git checkout is a command to switch between branches. It updates files in the working tree to match the version stored in the branch that head points to.

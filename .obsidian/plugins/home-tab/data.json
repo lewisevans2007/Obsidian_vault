@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "README.md",
-      "timestamp": 1690653302861
-    },
-    {
-      "filepath": "The Internet/URL.md",
-      "timestamp": 1690621555251
-    },
-    {
-      "filepath": "Programming/debugging.md",
-      "timestamp": 1690621551178
-    },
-    {
-      "filepath": "Programming/machine code.md",
-      "timestamp": 1690621550816
-    },
-    {
-      "filepath": "Programming/languages/C/C.md",
-      "timestamp": 1690621537214
+      "filepath": "HuggingFace.md",
+      "timestamp": 1690712814663
     }
   ],
   "starredFileStore": [],

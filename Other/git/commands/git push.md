@@ -1,0 +1,1 @@
+Git push uploads changes to a remote repository. It is used to upload local repository content to a remote repository.

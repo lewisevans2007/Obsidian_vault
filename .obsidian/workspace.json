@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f792eb181ced6ecc",
+        "id": "9a57d20adef2e1ff",
         "type": "tabs",
         "children": [
           {
-            "id": "9cff959236d9f28b",
+            "id": "f206da0deb4aa4aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,34 +190,36 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9cff959236d9f28b",
+  "active": "f206da0deb4aa4aa",
   "lastOpenFiles": [
-    "The Internet/URL.md",
-    "Programming/debugging.md",
-    "Programming/machine code.md",
-    "Programming/languages/C/C.md",
-    "Programming/languages/C/C formmated output.md",
-    "Excalidraw/generative ai.excalidraw.md",
-    "The Internet/client-server model.md",
-    "Excalidraw/client server model.excalidraw.md",
-    "Programming/languages/C/Header files/stdio.h.md",
-    "Programming/languages/C/Header files/stddef.h.md",
-    "The Internet/Server.md",
-    "The Internet/Internet protocols.md",
-    "The Internet/IP.md",
-    "The Internet/IP addresses.md",
-    "The Internet/SSH.md",
-    "Programming/languages/CSS.md",
-    "The Internet/DHCP.md",
-    "The Internet/DNS.md",
-    "Visual Studio Code.md",
-    "Programming/languages/Python/Python.md",
-    "08 Modules in python.md",
-    "Programming/languages/Python/Tutorial/08 Modules in python.md",
-    "Programming/languages/Python/Tutorial/07 Lists in python.md",
-    "Programming/Data types/List.md",
-    "06 Strings in python.md",
-    "Programming/languages/Python/Tutorial/06 Strings in python.md",
+    "Other/HuggingFace.md",
+    "GitLab.md",
+    "Other/GitLab.md",
+    "Other/git/commands/git status.md",
+    "Other/git/commands/git push.md",
+    "git add.md",
+    "Other/git/commands/git pull.md",
+    "Other/git/commands/git merge.md",
+    "Other/git/commands/git log.md",
+    "Other/git/commands/git init.md",
+    "Other/git/commands/git commit.md",
+    "Other/git/commands/git clone.md",
+    "Other/git/commands/git checkout.md",
+    "Other/git/commands/git branch.md",
+    "Other/git/commands/git add.md",
+    "Other/git/commands",
+    "Other/git/Git.md",
+    "Other/git",
+    "git log.md",
+    "Other/Git.md",
+    "git clone.md",
+    "git commit.md",
+    "git push.md",
+    "git pull.md",
+    "git branch.md",
+    "git checkout.md",
+    "git status.md",
+    "git merge.md",
     "Attachments/Microsoft store.png",
     "Operating Systems/Windows/Programs",
     "Attachments/Windows 11 security.png",
@@ -237,8 +230,6 @@
     "Programming/languages/Python/Other",
     "Programming/languages/Python/Modules",
     "Programming/languages/Python",
-    "Programming/languages/C/versions",
-    "Programming/languages/C",
     "Attachments/Windows 2.0.png",
     "Attachments/Windows 1.0.png",
     "Attachments/Pasted image 20230724180855.png",

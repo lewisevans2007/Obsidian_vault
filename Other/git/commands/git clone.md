@@ -1,0 +1,1 @@
+Git clone is a command to download a repository from a remote server to your local machine. It is the first step in the git workflow. After cloning a repository, you can make changes to it and push those changes back to the remote server.
