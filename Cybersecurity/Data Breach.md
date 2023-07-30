@@ -1,0 +1,1 @@
+Unauthorized access to sensitive data, often resulting in data exposure.

@@ -1,0 +1,1 @@
+A privilege escalation is a [[vulnerability]] that occurs when a program allows a user to perform an action that they should not be able to perform.

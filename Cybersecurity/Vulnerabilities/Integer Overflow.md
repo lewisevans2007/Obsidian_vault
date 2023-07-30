@@ -1,0 +1,1 @@
+A [[Integer]] overflow is a type of Arithmetic Overflow that occurs when an Integer is incremented past its maximum value. This can cause the Integer to "wrap around" to a negative value, which can cause Software to behave in unexpected ways. This can be used to Exploit Software that does not properly handle Integer Overflow.

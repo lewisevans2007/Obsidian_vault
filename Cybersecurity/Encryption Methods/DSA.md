@@ -1,0 +1,1 @@
+Digital Signature Algorithm - DSA is a widely-used asymmetric encryption algorithm for digital signatures, providing authentication and integrity verification of messages.

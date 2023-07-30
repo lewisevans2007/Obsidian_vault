@@ -1,0 +1,1 @@
+Elliptic Curve Cryptography - ECC is a family of asymmetric encryption algorithms based on the mathematics of elliptic curves. It offers strong security with shorter key lengths, making it efficient for resource-constrained environments.

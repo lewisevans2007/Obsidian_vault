@@ -1,0 +1,1 @@
+Serpent is a symmetric block cipher known for its simplicity and strong security. It was one of the [[AES]] finalists.

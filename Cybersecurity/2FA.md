@@ -1,0 +1,1 @@
+Requiring multiple forms of verification to access accounts. Also known as [[Multi-Factor Authentication]]

@@ -1,4 +1,4 @@
-In TCP/IP networking, the SYN flag (Synchronize) is a control flag used in the Transmission Control Protocol ([[TCP]]) segment header. It plays a crucial role in establishing a connection between two network hosts.
+In TCP/IP networking, the SYN flag (Synchronize) is a control flag used in the Transmission Control Protocol ([[TCP]]) segment header. It plays a crucial role in establishing a connection between two [[network]]hosts.
 
 ### Purpose
 
@@ -16,8 +16,8 @@ The three-way handshake involves the following steps:
 
 ### Significance
 
-The SYN flag serves as a key component in establishing TCP connections and ensures that both client and server are prepared to communicate. By initiating the three-way handshake, the SYN flag enables reliable, ordered, and error-checked data transmission between network hosts.
+The SYN flag serves as a key component in establishing TCP connections and ensures that both client and server are prepared to communicate. By initiating the three-way handshake, the SYN flag enables reliable, ordered, and error-checked data transmission between [[network]]hosts.
 
-Additionally, the SYN flag can also be used in network monitoring and security contexts. Analyzing SYN packets and their corresponding responses can help identify potential network issues, detect suspicious activity, and mitigate certain types of network attacks, such as SYN flooding.
+Additionally, the SYN flag can also be used in [[network]]monitoring and security contexts. Analyzing SYN packets and their corresponding responses can help identify potential [[network]]issues, detect suspicious activity, and mitigate certain types of [[network]]attacks, such as SYN flooding.
 
-Overall, the SYN flag plays a fundamental role in the establishment of TCP connections and facilitates reliable communication between network hosts.
+Overall, the SYN flag plays a fundamental role in the establishment of TCP connections and facilitates reliable communication between [[network]]hosts.

@@ -12,7 +12,7 @@ Input ^3MTbF5uy
 
 Output ^WNlwaFw8
 
-Artificial neural network ^oHIFbWZL
+Artificial neural [[network]]^oHIFbWZL
 
 %%
 # Drawing

@@ -1,1 +1,1 @@
-Unauthorized interception of network communications to gain sensitive information.
+Unauthorized interception of [[network]]communications to gain sensitive information.

@@ -1,0 +1,1 @@
+Remote code execution is a [[vulnerability]] that allows an attacker to execute arbitrary commands on a target machine. This is often used to upload and execute a backdoor, which allows an attacker to maintain persistent access to the target machine.

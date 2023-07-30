@@ -1,0 +1,1 @@
+Assembly is the lowest level programming language. It is the language before [[Machine Code]].

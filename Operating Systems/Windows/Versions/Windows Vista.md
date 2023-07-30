@@ -1,0 +1,2 @@
+#windows 
+Launched in 2007, [[Windows]] Vista brought significant visual enhancements and security improvements. However, it faced criticism for its high system requirements, performance issues, and compatibility problems with certain applications.

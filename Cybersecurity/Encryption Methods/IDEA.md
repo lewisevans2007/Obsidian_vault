@@ -1,0 +1,1 @@
+International Data Encryption Algorithm - IDEA is a symmetric block cipher that was popular for a time but has largely been replaced by more modern algorithms due to concerns over its patent status.

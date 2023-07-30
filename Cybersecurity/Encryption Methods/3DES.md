@@ -1,0 +1,1 @@
+Triple DES - 3DES is an enhancement of DES that applies DES three times with different keys. While more secure than DES, it is slow compared to modern encryption standards.

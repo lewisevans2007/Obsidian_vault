@@ -1,0 +1,1 @@
+Twofish is another symmetric block cipher, known for its flexibility and robustness. It is one of the [[AES]] finalists but was not selected as the standard.

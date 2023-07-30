@@ -12,7 +12,7 @@ The primary purpose of TCP is to enable the reliable delivery of data packets fr
 
 4. **Flow Control**: TCP incorporates flow control mechanisms to manage the rate at which data is transmitted. It ensures that the receiver can handle the incoming data and avoids overwhelming it with an excessive amount of data.
 
-5. **Congestion Control**: TCP helps regulate network congestion by dynamically adjusting the transmission rate based on network conditions. It monitors the network for signs of congestion and adapts its transmission behaviour accordingly to prevent network congestion and maintain optimal performance.
+5. **Congestion Control**: TCP helps regulate [[network]]congestion by dynamically adjusting the transmission rate based on [[network]]conditions. It monitors the [[network]]for signs of congestion and adapts its transmission behaviour accordingly to prevent [[network]]congestion and maintain optimal performance.
  
 6. **Full-Duplex Communication**: TCP allows for simultaneous bi-directional communication, enabling data to flow in both directions at the same time.
 
@@ -24,6 +24,6 @@ TCP uses port numbers to identify specific communication endpoints, known as soc
 
 ## Applications
 
-TCP is extensively used in various applications that require reliable and ordered data delivery, such as web browsing ([[HTTP]],[[HTTPS]]), email ([[SMTP]], [[POP]], [[IMAP]]) file transfer ([[FTP]]), remote login ([[Telnet]], [[SSH]]), and many other network services. It forms the foundation of reliable data transmission over the internet and is widely supported by networking devices and operating systems.
+TCP is extensively used in various applications that require reliable and ordered data delivery, such as web browsing ([[HTTP]],[[HTTPS]]), email ([[SMTP]], [[POP]], [[IMAP]]) file transfer ([[FTP]]), remote login ([[Telnet]], [[SSH]]), and many other [[network]]services. It forms the foundation of reliable data transmission over the internet and is widely supported by networking devices and operating systems.
 
 Overall, TCP provides a robust and dependable means of transmitting data across networks, ensuring the integrity, reliability, and ordered delivery of information.

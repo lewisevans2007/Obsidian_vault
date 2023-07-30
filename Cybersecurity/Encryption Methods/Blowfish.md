@@ -1,0 +1,1 @@
+Blowfish is a symmetric block cipher designed for fast encryption and well-suited for software implementations. However, it is considered outdated for some applications due to the availability of faster and more secure alternatives.

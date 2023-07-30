@@ -1,0 +1,2 @@
+#windows 
+Launched in 1990, [[Windows]] 3.0 was a significant milestone for [[Microsoft]]. It became the first version to achieve mainstream success, offering improved performance, multimedia support, and a wider range of applications.

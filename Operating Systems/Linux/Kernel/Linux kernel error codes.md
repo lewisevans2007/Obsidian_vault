@@ -65,7 +65,7 @@ Linux has a set of error codes that’s are used to identify what a error means 
 | 61     | ENODATA         | No data available                               |
 | 62     | ETIME           | Timer expired                                   |
 | 63     | ENOSR           | Out of streams resources                        |
-| 64     | ENONET          | Machine is not on the network                   |
+| 64     | ENONET          | Machine is not on the [[network]]                  |
 | 65     | ENOPKG          | Package not installed                           |
 | 66     | EREMOTE         | Object is remote                                |
 | 67     | ENOLINK         | Link has been severed                           |
@@ -77,7 +77,7 @@ Linux has a set of error codes that’s are used to identify what a error means 
 | 73     | EDOTDOT         | RFS specific error                              |
 | 74     | EBADMSG         | Not a data message                              |
 | 75     | EOVERFLOW       | Value too large for defined data type           |
-| 76     | ENOTUNIQ        | Name not unique on network                      |
+| 76     | ENOTUNIQ        | Name not unique on [[network]]                     |
 | 77     | EBADFD          | File descriptor in bad state                    |
 | 78     | EREMCHG         | Remote address changed                          |
 | 79     | ELIBACC         | Can not access a needed shared library          |

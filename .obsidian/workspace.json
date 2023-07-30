@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a57d20adef2e1ff",
+        "id": "a98b062136b9e94b",
         "type": "tabs",
         "children": [
           {
-            "id": "f206da0deb4aa4aa",
+            "id": "489ab7591ed7e99e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "####",
+                "query": "tag:#linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "264b602156dfeac4",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
               "state": {}
             }
           }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,22 +135,21 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -0.9,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -158,7 +157,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2816532814678938,
+                  "scale": 0.23787207308096894,
                   "close": true
                 }
               }
@@ -183,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 503.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,49 +198,53 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f206da0deb4aa4aa",
+  "active": "489ab7591ed7e99e",
   "lastOpenFiles": [
-    "Other/HuggingFace.md",
-    "GitLab.md",
-    "Other/GitLab.md",
-    "Other/git/commands/git status.md",
-    "Other/git/commands/git push.md",
-    "git add.md",
-    "Other/git/commands/git pull.md",
-    "Other/git/commands/git merge.md",
-    "Other/git/commands/git log.md",
-    "Other/git/commands/git init.md",
-    "Other/git/commands/git commit.md",
-    "Other/git/commands/git clone.md",
-    "Other/git/commands/git checkout.md",
-    "Other/git/commands/git branch.md",
-    "Other/git/commands/git add.md",
-    "Other/git/commands",
-    "Other/git/Git.md",
-    "Other/git",
-    "git log.md",
-    "Other/Git.md",
-    "git clone.md",
-    "git commit.md",
-    "git push.md",
-    "git pull.md",
-    "git branch.md",
-    "git checkout.md",
-    "git status.md",
-    "git merge.md",
+    "README.md",
+    "Cybersecurity/Cybersecurity.md",
+    "Cybersecurity/Malware/Families/Emotet.md",
+    "Cybersecurity/Malware/Malware.md",
+    "Cybersecurity/Malware/Families/Wannacry.md",
+    "RSA.md",
+    "Cybersecurity/Encryption Methods/Twofish.md",
+    "Cybersecurity/Encryption Methods/Serpent.md",
+    "Cybersecurity/Encryption Methods/Salsa20.md",
+    "Cybersecurity/Encryption Methods/RSA.md",
+    "Twofish.md",
+    "Cybersecurity/Encryption Methods/3DES.md",
+    "Cybersecurity/Encryption.md",
+    "Cybersecurity/Vulnerabilities/CVE/CVE.md",
+    "Salsa20.md",
+    "Cybersecurity/Encryption Methods/GCM.md",
+    "Cybersecurity/Encryption Methods/Camellia.md",
+    "Cybersecurity/Encryption Methods/ChaCha20.md",
+    "Cybersecurity/Encryption Methods/RC4.md",
+    "Cybersecurity/Encryption Methods/IDEA.md",
+    "Cybersecurity/Encryption Methods/DSA.md",
+    "Cybersecurity/Encryption Methods/ECC.md",
+    "Serpent.md",
+    "Cybersecurity/Encryption Methods/Blowfish.md",
+    "Cybersecurity/Encryption Methods/DES.md",
+    "Cybersecurity/Encryption Methods/AES.md",
+    "Cybersecurity/Encryption Methods",
+    "Obsidian/scripts/add_cve_links.py",
+    "Obsidian/scripts",
+    "Attachments/edge.jpg",
+    "Cybersecurity.ini",
+    "Cybersecurity/Malware/Families/Cybersecurity.ini",
+    "test.py",
+    "test.pyss",
+    "test.sh",
+    "Attachments/Windows computer management.png",
+    "Attachments/Windows task manager.png",
+    "Attachments/Pasted image 20230730175951.png",
+    "Attachments/yum_cheet_sheet.pdf",
+    "Attachments/USB types.webp",
+    "Cybersecurity/Vulnerabilities/CVE",
     "Attachments/Microsoft store.png",
-    "Operating Systems/Windows/Programs",
     "Attachments/Windows 11 security.png",
-    "Programming/languages/C/Header files",
-    "Programming/languages/Python/Modules/sys",
-    "Programming/languages/Python/Modules/os",
-    "Programming/languages/Python/Tutorial",
-    "Programming/languages/Python/Other",
-    "Programming/languages/Python/Modules",
-    "Programming/languages/Python",
     "Attachments/Windows 2.0.png",
     "Attachments/Windows 1.0.png",
-    "Attachments/Pasted image 20230724180855.png",
-    "Attachments/edge.jpg"
+    "Attachments/Pasted image 20230724180855.png"
   ]
 }

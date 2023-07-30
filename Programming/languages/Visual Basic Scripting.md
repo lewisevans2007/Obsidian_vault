@@ -10,7 +10,7 @@ VBS offers a wide range of features and capabilities that make it a versatile sc
 
 ### 1. Automation and Scripting
 
-VBS excels at automating repetitive tasks and interacting with the Windows operating system. It provides access to a rich set of built-in objects, allowing scripts to manipulate files, folders, registry entries, and network resources. With VBS, developers can automate complex processes, streamline workflows, and save valuable time and effort.
+VBS excels at automating repetitive tasks and interacting with the Windows operating system. It provides access to a rich set of built-in objects, allowing scripts to manipulate files, folders, registry entries, and [[network]]resources. With VBS, developers can automate complex processes, streamline workflows, and save valuable time and effort.
 
 ### 2. Accessibility to System Services
 

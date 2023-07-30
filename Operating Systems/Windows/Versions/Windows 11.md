@@ -1,0 +1,2 @@
+#windows
+Released in 2021, [[Windows]] 11 is the latest major version of the Windows operating system. It features a redesigned Start menu, improved multitasking capabilities, and a more polished user interface. Windows 11 focuses on productivity, gaming, and integration with Microsoft services.

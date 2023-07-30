@@ -16,6 +16,6 @@ In addition to the URG flag, the TCP segment header includes an Urgent Pointer f
 
 The URG flag and Urgent Pointer facilitate the handling of time-critical data within TCP segments. When the URG flag is set, it alerts the receiver that the segment contains urgent information that requires immediate attention. The receiver can then use the Urgent Pointer to identify and process the urgent data before proceeding with the rest of the TCP stream.
 
-It's important to note that the URG flag and urgent data handling in TCP are not commonly used in modern network communications. They were originally intended for specific applications that required urgent data delivery, such as terminal emulation or remote login protocols. Nowadays, most network applications rely on more sophisticated mechanisms for time-critical data transmission and handling.
+It's important to note that the URG flag and urgent data handling in TCP are not commonly used in modern [[network]]communications. They were originally intended for specific applications that required urgent data delivery, such as terminal emulation or remote login protocols. Nowadays, most [[network]]applications rely on more sophisticated mechanisms for time-critical data transmission and handling.
 
 Overall, while the URG flag and urgent data in TCP provide a means to prioritize and process critical information, their usage has become less prevalent in contemporary networking scenarios.

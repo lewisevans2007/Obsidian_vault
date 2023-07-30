@@ -16,6 +16,6 @@ Moreover, the SYN-ACK flag's synchronization aspect allows the server to synchro
 
 By leveraging the SYN-ACK flag, TCP/IP enables reliable communication by confirming readiness, synchronizing sequence numbers, and establishing the initial parameters for data exchange.
 
-Understanding the SYN-ACK flag is vital not only for network communication but also for network troubleshooting and analysis. Monitoring SYN-ACK packets and their corresponding responses can provide insights into the successful establishment of connections and help identify potential network issues.
+Understanding the SYN-ACK flag is vital not only for [[network]]communication but also for [[network]]troubleshooting and analysis. Monitoring SYN-ACK packets and their corresponding responses can provide insights into the successful establishment of connections and help identify potential [[network]]issues.
 
 In summary, the SYN-ACK flag serves the dual purpose of acknowledging the client's request and synchronizing the server's sequence number during the three-way handshake, allowing for reliable and ordered data transmission in TCP/IP communication.

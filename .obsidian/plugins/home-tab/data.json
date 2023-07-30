@@ -25,11 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "README.md",
-      "timestamp": 1690712942146
+      "timestamp": 1690746948686
     },
     {
-      "filepath": "Other/HuggingFace.md",
-      "timestamp": 1690712814663
+      "filepath": "Cybersecurity/Cybersecurity.md",
+      "timestamp": 1690746947087
+    },
+    {
+      "filepath": "Cybersecurity/Malware/Families/Emotet.md",
+      "timestamp": 1690746891120
+    },
+    {
+      "filepath": "Cybersecurity/Malware/Malware.md",
+      "timestamp": 1690746888824
+    },
+    {
+      "filepath": "Cybersecurity/Malware/Families/Wannacry.md",
+      "timestamp": 1690746885333
     }
   ],
   "starredFileStore": [],

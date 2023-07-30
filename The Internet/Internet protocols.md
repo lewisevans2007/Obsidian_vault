@@ -9,7 +9,7 @@
 9. [[UDP]](User Datagram Protocol): A connectionless protocol that provides a faster but less reliable delivery of data packets over an [[IP]] network.
 10. [[IP]] (Internet Protocol): The fundamental protocol that enables communication between devices on the Internet. It provides the addressing and routing mechanism for data packets.
 11. [[ICMP]] (Internet Control Message Protocol): Used for sending error messages and operational information concerning [[IP]] packet transmission.
-12. [[DHCP]] (Dynamic Host Configuration Protocol): Used to automatically assign [[IP addresses]] and network configuration parameters to devices on a network.
-13. [[SNMP]] (Simple Network Management Protocol): Used for managing and monitoring network devices, such as routers and switches.
-14. [[SSH]] (Secure Shell): A cryptographic network protocol for secure remote login and command execution on a remote computer.
+12. [[DHCP]] (Dynamic Host Configuration Protocol): Used to automatically assign [[IP addresses]] and [[network]]configuration parameters to devices on a network.
+13. [[SNMP]] (Simple Network Management Protocol): Used for managing and monitoring [[network]]devices, such as routers and switches.
+14. [[SSH]] (Secure Shell): A cryptographic [[network]]protocol for secure remote login and command execution on a remote computer.
 15. [[SSL]]/[[TLS]] (Secure Sockets Layer/Transport Layer Security): Protocols that provide secure communication over a computer network, commonly used for securing web browsing ([[HTTPS]]).

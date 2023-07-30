@@ -1,4 +1,4 @@
-The FIN flag, short for Finish, is a control flag used in the Transmission Control Protocol ([[TCP]]) segment header. It is responsible for initiating the graceful termination of a TCP connection between two network hosts.
+The FIN flag, short for Finish, is a control flag used in the Transmission Control Protocol ([[TCP]]) segment header. It is responsible for initiating the graceful termination of a TCP connection between two [[network]]hosts.
 
 ## Purpose
 
@@ -25,4 +25,4 @@ The FIN flag ensures the graceful termination of TCP connections, allowing both 
 
 The four-way handshake facilitated by the FIN flag allows both hosts to synchronize the closure of the connection, ensuring that all data is properly exchanged before termination. It also provides an opportunity for the hosts to perform any necessary clean up and release resources associated with the connection.
 
-Overall, the FIN flag plays a crucial role in the orderly termination of TCP connections, allowing hosts to gracefully close the connection and ensuring reliable communication between network hosts.
+Overall, the FIN flag plays a crucial role in the orderly termination of TCP connections, allowing hosts to gracefully close the connection and ensuring reliable communication between [[network]]hosts.

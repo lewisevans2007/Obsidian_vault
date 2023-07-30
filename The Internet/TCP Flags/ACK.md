@@ -1,4 +1,4 @@
-The ACK flag, short for Acknowledgment, is a control flag used in the Transmission Control Protocol (TCP) segment header. It plays a crucial role in acknowledging the receipt of data and ensuring reliable communication between network hosts.
+The ACK flag, short for Acknowledgment, is a control flag used in the Transmission Control Protocol (TCP) segment header. It plays a crucial role in acknowledging the receipt of data and ensuring reliable communication between [[network]]hosts.
 
 ## Purpose
 
@@ -23,6 +23,6 @@ The ACK flag plays a vital role in ensuring reliable and ordered data transmissi
 
 By acknowledging the receipt of data, the ACK flag enables the sender to retransmit any lost or corrupted packets, ensuring that all data is received accurately and in the correct order.
 
-Additionally, the ACK flag also helps in managing congestion and optimizing network performance. By monitoring the acknowledgments received from the receiver, the sender can adjust its transmission rate to prevent network congestion and maintain an optimal flow of data.
+Additionally, the ACK flag also helps in managing congestion and optimizing [[network]]performance. By monitoring the acknowledgments received from the receiver, the sender can adjust its transmission rate to prevent [[network]]congestion and maintain an optimal flow of data.
 
-Overall, the ACK flag serves as a key component of TCP's reliability mechanisms, ensuring that data is accurately received, enabling retransmission when necessary, and facilitating efficient data flow between network hosts.
+Overall, the ACK flag serves as a key component of TCP's reliability mechanisms, ensuring that data is accurately received, enabling retransmission when necessary, and facilitating efficient data flow between [[network]]hosts.

@@ -1,0 +1,1 @@
+Salsa20 is a stream cipher designed for efficient software implementation and high speed. It is often used in applications like disk encryption.

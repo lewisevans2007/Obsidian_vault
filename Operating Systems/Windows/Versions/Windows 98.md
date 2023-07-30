@@ -1,0 +1,2 @@
+#windows 
+Released in 1998, [[Windows]] 98 was an evolution of [[Windows 95]], offering improved performance, [[USB]] support, and better hardware compatibility. It remained popular among home users until the release of [[Windows XP]].

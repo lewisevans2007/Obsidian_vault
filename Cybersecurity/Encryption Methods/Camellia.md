@@ -1,0 +1,1 @@
+Camellia is a symmetric block cipher developed jointly by Japan and France. It provides strong security and performance.

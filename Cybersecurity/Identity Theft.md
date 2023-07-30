@@ -1,0 +1,1 @@
+Unauthorized use of personal information to impersonate individuals.

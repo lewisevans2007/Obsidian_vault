@@ -1,0 +1,1 @@
+Rivest-Shamir-Adleman - RSA is an asymmetric encryption algorithm that relies on the difficulty of factoring large integers into prime factors. It is commonly used for secure key exchange, digital signatures, and encryption of small data blocks.

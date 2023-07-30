@@ -21,6 +21,7 @@ To read these notes you need to have Obsidian installed. You can download it fro
 - [[Windows]]
 - [[Linux]]
 - [[Malware]]
+- [[Cybersecurity]]
 - [[Python]]
 - [[C]]
 

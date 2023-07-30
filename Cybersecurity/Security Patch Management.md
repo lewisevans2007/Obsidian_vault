@@ -1,0 +1,1 @@
+Applying software updates to fix [[vulnerability|vulnerabilities]] and weaknesses.

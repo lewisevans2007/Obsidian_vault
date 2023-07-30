@@ -1,0 +1,1 @@
+A out-of-bounds is a [[vulnerability]] that occurs when a program reads or writes to a memory address that is outside of the bounds of the memory that the program has allocated. This can cause the program to crash or behave in unexpected ways. This can be used to exploit software that does not properly handle out-of-bounds errors.

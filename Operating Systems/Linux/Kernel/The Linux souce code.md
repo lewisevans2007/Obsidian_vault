@@ -17,7 +17,7 @@
 - `kernel`: Contains the source code for the kernel.
 - `lib`: Contains the source code for the libraries of the kernel.
 - `mm`: Contains the source code for the memory management of the kernel.
-- `net`: Contains the source code for the network of the kernel.
+- `net`: Contains the source code for the [[network]]of the kernel.
 - `samples`: Contains the source code for the samples of the kernel.
 - `scripts`: Contains the source code for the scripts of the kernel.
 - `security`: Contains the source code for the security of the kernel.

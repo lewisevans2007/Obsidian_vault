@@ -1,0 +1,1 @@
+Advanced Encryption Standard - AES is a symmetric block cipher adopted as a standard by the U.S. government. It supports key sizes of 128, 192, or 256 bits and is widely used for secure data transmission and storage due to its strong security and efficiency.

@@ -1,0 +1,1 @@
+A memory leak is a [[vulnerability]] that occurs when a program allocates memory but does not free it. This can cause the program to run out of memory, which can cause the program to crash or behave in unexpected ways. This can be used to exploit software that does not properly handle memory leaks.

@@ -1,0 +1,1 @@
+ChaCha20 is a stream cipher designed for speed and security. It is often used in applications requiring high performance, such as in [[TLS]].

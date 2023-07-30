@@ -1,0 +1,1 @@
+Unpatched security flaws exploited before vendors release fixes.
