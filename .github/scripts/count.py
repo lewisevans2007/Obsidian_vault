@@ -19,7 +19,7 @@ for root, dirs, files in os.walk("."):
 with open("README.md", "r", encoding="utf8") as f:
     lines = f.readlines()
 
-lines[6] = f"In this vault there are: {pages} pages and {links} links\n"
+lines[6] = f"In this vault there are: `{pages}` pages and `{links}` links\n"
 
 with open("README.md", "w", encoding="utf8") as f:
     f.writelines(lines)
