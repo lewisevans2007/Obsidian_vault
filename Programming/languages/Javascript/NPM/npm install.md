@@ -1,0 +1,1 @@
+Installs all the dependencies listed in the [[package.json]] file. Doing `npm install <package-name>` Installs a specific package and adds it to the dependencies section of the package.json file.

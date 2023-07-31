@@ -1,0 +1,1 @@
+Updates all packages listed in the [[package.json]] file to their latest compatible versions.

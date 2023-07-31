@@ -1,0 +1,1 @@
+Removes a package from the node_modules directory and updates the [[package.json]] file accordingly.

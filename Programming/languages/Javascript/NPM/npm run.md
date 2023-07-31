@@ -1,0 +1,1 @@
+Executes a custom script defined in the scripts section of the [[package.json]] file.

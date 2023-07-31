@@ -1,0 +1,1 @@
+This post-exploitation module is used to enumerate PowerShell environment variables on Windows systems. It provides insights into the PowerShell environment and potential attack vectors.

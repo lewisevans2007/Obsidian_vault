@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE.md",
-      "timestamp": 1690791776760
+      "filepath": "Cybersecurity/Attacking methods/Password attacks/Brute-force attack.md",
+      "timestamp": 1690825121776
     },
     {
-      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-352.md",
-      "timestamp": 1690791763908
+      "filepath": "Cybersecurity/Attacking methods/Password attacks/Password spraying attack.md",
+      "timestamp": 1690825120567
     },
     {
-      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-287.md",
-      "timestamp": 1690791763413
+      "filepath": "Cybersecurity/Attacking methods/Advanced Persistent Threats.md",
+      "timestamp": 1690825098913
     },
     {
-      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-200.md",
-      "timestamp": 1690791763033
+      "filepath": "Cybersecurity/Attacking methods/Tools/Aircrack-ng.md",
+      "timestamp": 1690825087276
     },
     {
-      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-125.md",
-      "timestamp": 1690791762679
+      "filepath": "Cybersecurity/Attacking methods/Tools/Hashcat.md",
+      "timestamp": 1690825047059
     }
   ],
   "starredFileStore": [],

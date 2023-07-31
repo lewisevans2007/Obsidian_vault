@@ -1,0 +1,1 @@
+Creates a [[package.json]] file in order to set up a [[NPM]] package. It also walks trough a setup in order to create a [[package.json]] file easily 

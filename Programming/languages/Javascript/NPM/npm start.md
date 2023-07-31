@@ -1,0 +1,1 @@
+Executes the start script defined in the [[package.json]] file.

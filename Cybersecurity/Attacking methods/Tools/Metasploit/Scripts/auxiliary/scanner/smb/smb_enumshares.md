@@ -1,0 +1,1 @@
+This auxiliary module scans [[Windows]] systems to enumerate shared folders accessible over [[SMB]]. It provides valuable information to attackers for further reconnaissance and potential exploitation.

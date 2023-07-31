@@ -1,0 +1,1 @@
+This auxiliary module is used to scan web servers for directories and files. It helps in finding hidden or exposed directories that could contain sensitive information or potential [[Vulnerability|vulnerabilities]].

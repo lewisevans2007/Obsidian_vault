@@ -1,0 +1,1 @@
+This auxiliary module retrieves the [[robots.txt]] file from a web server. It can reveal hidden directories, paths, or disallowed areas that may contain sensitive information.

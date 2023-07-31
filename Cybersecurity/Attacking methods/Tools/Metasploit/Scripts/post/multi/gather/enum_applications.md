@@ -1,0 +1,1 @@
+This post-exploitation module is used to enumerate applications and software installed on the compromised system. It provides valuable information about the target's software landscape.

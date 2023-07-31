@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c39713c5ab274f66",
+        "id": "2a1face5b8a3f99a",
         "type": "tabs",
         "children": [
           {
-            "id": "d357046d95813ff9",
+            "id": "c05beb1e59e74dd9",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121895,
+                  "scale": 0.23787207308096936,
                   "close": true
                 }
               }
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,44 +198,46 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d357046d95813ff9",
+  "active": "c05beb1e59e74dd9",
   "lastOpenFiles": [
-    "Cybersecurity/Vulnerabilities/CWE/CWE.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-352.md",
-    "Cybersecurity/Vulnerabilities/CWE",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-287.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-200.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-125.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-119.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-89.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-78.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-22.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-20.md",
-    "Obsidian/scripts/add_cwe_links.py",
-    "Obsidian/scripts/add_cwe_links copy.py",
-    "Obsidian/scripts/add_cve_links copy.py",
-    "Cybersecurity/Vulnerability.md",
-    "Cybersecurity/Vulnerabilities/CWE/CWE-79.md",
-    "Cybersecurity/Malware/XSS.md",
-    "Cybersecurity/Vulnerabilities/Buffer overflow.md",
-    "buffer overflow.md",
-    "Programming/languages/C/C.md",
-    "README.md",
-    "Programming/languages/C/Header files/math.h.md",
-    "Programming/languages/C/Header files/string.h.md",
-    "Programming/languages/C/Header files/stdio.h.md",
-    "Programming/languages/C/Header files/signal.h.md",
-    "Programming/languages/C/Header files/limits.h.md",
-    "Cybersecurity/Cybersecurity.md",
-    "Cybersecurity/Malware/Families/Emotet.md",
-    "Cybersecurity/Malware/Malware.md",
-    "Cybersecurity/Encryption Methods",
-    "Obsidian/scripts/add_cve_links.py",
-    "Obsidian/scripts",
+    "Cybersecurity/Attacking methods/Password attacks/Brute-force attack.md",
+    "Cybersecurity/Attacking methods/Password attacks/Password spraying attack.md",
+    "Cybersecurity/Attacking methods/Advanced Persistent Threats.md",
+    "Cybersecurity/Attacking methods/Tools/Aircrack-ng.md",
+    "CVE-2017-0144.md",
+    "Cybersecurity/Attacking methods/Password attacks",
+    "Cybersecurity/Attacking methods/Tools/Hashcat.md",
+    "Cybersecurity/Malware/SQL Injection.md",
+    "Programming/languages/SQL.md",
+    "Obsidian/Page notes.md",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Metasploit.md",
+    "Cybersecurity/Attacking methods/Password Attacks.md",
+    "Cybersecurity/Attacking methods/Tools/John the Ripper.md",
+    "Cybersecurity/Attacking methods/Tools/Medusa.md",
+    "Cybersecurity/Attacking methods/Tools/Hydra.md",
+    "Cybersecurity/Attacking methods/Password attacks/Credential stuffing attack.md",
+    "Cybersecurity/Attacking methods/Password attacks/Pass the hash attack.md",
+    "Cybersecurity/Attacking methods/Password attacks/Hybrid attack.md",
+    "Cybersecurity/Attacking methods/Password attacks/Rainbow table attack.md",
+    "Cybersecurity/Attacking methods/Password attacks/Dictionary attack.md",
+    "Cybersecurity/Malware/Families/OpenCandy.md",
+    "Cybersecurity/Malware/Families/Eorezo.md",
+    "Attachments/eorezo.png",
+    "Cybersecurity/Malware/Families/Wajam.md",
+    "Cybersecurity/Malware/Adware.md",
+    "Cybersecurity/Malware/Families/Vonteera.md",
+    "Cybersecurity/Malware/potentially unwanted program.md",
+    "Operating Systems/Linux/Linux File System/sbin.md",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/exploit/multi/misc",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/auxiliary/scanner/snmp",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/exploit/multi/browser",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/auxiliary/scanner/ssh",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/post/multi/manage",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/post/windows/gather",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/post/windows",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/post/multi/gather",
+    "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/post/multi",
     "Attachments/edge.jpg",
-    "Cybersecurity.ini",
-    "Cybersecurity/Malware/Families/Cybersecurity.ini",
-    "test.py",
     "Attachments/Windows computer management.png",
     "Attachments/Windows task manager.png",
     "Attachments/Pasted image 20230730175951.png",
@@ -243,7 +245,6 @@
     "Attachments/Microsoft store.png",
     "Attachments/Windows 11 security.png",
     "Attachments/Windows 2.0.png",
-    "Attachments/Windows 1.0.png",
-    "Attachments/Pasted image 20230724180855.png"
+    "Attachments/Windows 1.0.png"
   ]
 }

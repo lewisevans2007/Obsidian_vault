@@ -1,0 +1,1 @@
+This post-exploitation module is used to upgrade a simple shell (command prompt) obtained during an exploit to a more advanced Meterpreter shell, offering additional capabilities like file transfer, pivoting, and more.

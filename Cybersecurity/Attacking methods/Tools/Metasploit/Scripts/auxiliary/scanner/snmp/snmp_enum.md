@@ -1,0 +1,1 @@
+This auxiliary module performs SNMP enumeration on [[network]] devices. It gathers information like system description, available interfaces, and other valuable data from SNMP-enabled devices.
