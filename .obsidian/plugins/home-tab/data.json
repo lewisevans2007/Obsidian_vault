@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "README.md",
-      "timestamp": 1690746948686
+      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE.md",
+      "timestamp": 1690791776760
     },
     {
-      "filepath": "Cybersecurity/Cybersecurity.md",
-      "timestamp": 1690746947087
+      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-352.md",
+      "timestamp": 1690791763908
     },
     {
-      "filepath": "Cybersecurity/Malware/Families/Emotet.md",
-      "timestamp": 1690746891120
+      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-287.md",
+      "timestamp": 1690791763413
     },
     {
-      "filepath": "Cybersecurity/Malware/Malware.md",
-      "timestamp": 1690746888824
+      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-200.md",
+      "timestamp": 1690791763033
     },
     {
-      "filepath": "Cybersecurity/Malware/Families/Wannacry.md",
-      "timestamp": 1690746885333
+      "filepath": "Cybersecurity/Vulnerabilities/CWE/CWE-125.md",
+      "timestamp": 1690791762679
     }
   ],
   "starredFileStore": [],

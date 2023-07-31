@@ -1,0 +1,1 @@
+A buffer overflow occurs when a program attempts to write data beyond the boundaries of pre-allocated fixed length buffers. This [[vulnerability]] can be leveraged by an attacker to execute arbitrary code in the context of the program, or to cause a [[denial of service]] condition.
