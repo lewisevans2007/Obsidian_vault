@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a1face5b8a3f99a",
+        "id": "f15e4500a866ccd5",
         "type": "tabs",
         "children": [
           {
-            "id": "c05beb1e59e74dd9",
+            "id": "aff7c1b67c589437",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -198,8 +198,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c05beb1e59e74dd9",
+  "active": "aff7c1b67c589437",
   "lastOpenFiles": [
+    "README.md",
+    "Operating Systems/Linux/Linux programs/umount.md",
+    "Operating Systems/Linux/Linux programs/mount.md",
+    "Operating Systems/Linux/Linux File System/sbin.md",
     "Cybersecurity/Attacking methods/Password attacks/Brute-force attack.md",
     "Cybersecurity/Attacking methods/Password attacks/Password spraying attack.md",
     "Cybersecurity/Attacking methods/Advanced Persistent Threats.md",
@@ -224,10 +228,6 @@
     "Cybersecurity/Malware/Families/Eorezo.md",
     "Attachments/eorezo.png",
     "Cybersecurity/Malware/Families/Wajam.md",
-    "Cybersecurity/Malware/Adware.md",
-    "Cybersecurity/Malware/Families/Vonteera.md",
-    "Cybersecurity/Malware/potentially unwanted program.md",
-    "Operating Systems/Linux/Linux File System/sbin.md",
     "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/exploit/multi/misc",
     "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/auxiliary/scanner/snmp",
     "Cybersecurity/Attacking methods/Tools/Metasploit/Scripts/exploit/multi/browser",
