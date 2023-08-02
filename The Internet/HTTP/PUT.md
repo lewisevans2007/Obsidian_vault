@@ -1,5 +1,2 @@
 #web 
-[Source](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT)
-The [[HTTP]] PUT request method creates a new resource or replaces a representation of the target resource with the request payload.
-
-The difference between PUT and [[POST]] is that PUT is idempotent: calling it once or several times successively has the same effect (that is no side effect), whereas successive identical POST requests may have additional effects, akin to placing an order several times.
+The PUT method is used to update or replace existing resources on the server. Clients send the entire updated resource representation as the request body, and the server replaces the existing resource with the new data. It is idempotent, meaning multiple identical PUT requests will have the same outcome.

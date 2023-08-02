@@ -1,3 +1,2 @@
 #web
-[Source](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
-The [[HTTP]] GET method requests a representation of the specified resource. Requests using GET should only be used to request data (they shouldn't include data).
+The GET method is used to retrieve data from the server. When a client sends a GET request, the server returns the requested data in the response body. It is a safe and idempotent method, meaning multiple identical GET requests will yield the same result without altering the server state.

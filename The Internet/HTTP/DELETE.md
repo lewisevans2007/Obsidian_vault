@@ -1,3 +1,2 @@
 #web 
-[Source](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE)
-The [[HTTP]] DELETE request method deletes the specified resource.
+As the name suggests, the DELETE method is used to request the removal of a resource from the server. When a client sends a DELETE request, the server deletes the specified resource. Like [[PUT]], DELETE is also idempotent.
