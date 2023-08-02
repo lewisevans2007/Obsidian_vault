@@ -1,1 +1,1 @@
-DDoS (Distributed Denial of Service), is an attacking method to bring down a service or website. In DDoS attack there are several computers that send [[traffic]] to overload a system. In a DDoS attack the [[latency]] of the victim goes up this causes the service not to work.
+DDoS (Distributed Denial of Service), is an attacking method to bring down a service, website or [[network]]. In DDoS attack there are several computers that send [[traffic]] to overload a system. In a DDoS attack the [[latency]] of the victim goes up this causes the service not to work.
