@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e934654550103c",
+        "id": "9370ea8af98314eb",
         "type": "tabs",
         "children": [
           {
-            "id": "3414b64f871252a2",
+            "id": "7089f119817061f2",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Internet/IP addresses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Internet/IP addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Internet/IP addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Internet/IP addresses.md"
+              }
             }
           },
           {
@@ -135,6 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "The Internet/IP addresses.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,8 +206,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3414b64f871252a2",
+  "active": "7089f119817061f2",
   "lastOpenFiles": [
+    "The Internet/IP.md",
+    "The Internet/IP addresses.md",
+    "The Internet/client-server model.md",
     "README.md",
     "Operating Systems/Linux/Linux programs/arp.md",
     "Cybersecurity/Attacking methods/DDoS.md",
@@ -206,7 +218,6 @@
     "Operating Systems/Linux/Linux File System/sbin.md",
     "Operating Systems/Linux/Linux programs/iptables.md",
     "Operating Systems/Linux/Linux programs/dhclient.md",
-    "The Internet/IP.md",
     "Operating Systems/Linux/Linux programs/umount.md",
     "Operating Systems/Linux/Linux programs/mount.md",
     "Operating Systems/Linux/Linux programs/ifconfig.md",
@@ -223,8 +234,6 @@
     "Cybersecurity/Vulnerabilities/CWE/CWE.md",
     "Cybersecurity/Vulnerabilities/Remote Code Execution.md",
     "Cybersecurity/Vulnerabilities/Privilege Escalation.md",
-    "Cybersecurity/Vulnerabilities/Out-of-Bounds.md",
-    "Cybersecurity/Vulnerabilities/Memory Leak.md",
     "Cybersecurity/ATT&CK/Tactics",
     "Cybersecurity/ATT&CK",
     "Cybersecurity/Attacking methods/Password attacks",

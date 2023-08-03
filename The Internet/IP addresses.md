@@ -1,1 +1,1 @@
-A IP address is a unique numerical identifier for every device or [[network]]that connects to the internet.
+A IP address is a unique numerical identifier for every device or [[network]] that connects to the internet.
