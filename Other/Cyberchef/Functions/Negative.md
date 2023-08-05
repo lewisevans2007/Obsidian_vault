@@ -1,0 +1,1 @@
+Negate each byte in the data.

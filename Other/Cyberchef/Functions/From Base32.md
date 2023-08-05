@@ -1,0 +1,1 @@
+Decode data from [[Base32]] encoding (case insensitive).

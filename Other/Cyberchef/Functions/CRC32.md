@@ -1,0 +1,1 @@
+Calculate CRC-32 checksum.

@@ -1,0 +1,1 @@
+Convert hexadecimal data to decimal.

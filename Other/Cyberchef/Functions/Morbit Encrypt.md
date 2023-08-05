@@ -1,0 +1,1 @@
+Encrypt using the Morbit cipher.

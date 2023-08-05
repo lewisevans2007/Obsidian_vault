@@ -1,0 +1,1 @@
+Encode data as [[URL]]-safe twice.

@@ -1,0 +1,1 @@
+Encode data using [[Base58]] encoding.

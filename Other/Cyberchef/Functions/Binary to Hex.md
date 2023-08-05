@@ -1,0 +1,1 @@
+Convert binary data to hexadecimal.

@@ -1,0 +1,1 @@
+Swap the endianness of binary data.

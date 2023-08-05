@@ -1,0 +1,1 @@
+Decode data from Base85 encoding.

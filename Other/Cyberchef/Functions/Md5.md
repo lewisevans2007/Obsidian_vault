@@ -1,0 +1,1 @@
+Calculate [[Md5]] hash.

@@ -1,0 +1,1 @@
+Decode [[HTML]] entities in data.

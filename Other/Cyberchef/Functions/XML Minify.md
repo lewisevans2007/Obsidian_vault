@@ -1,0 +1,1 @@
+Remove whitespace and comments from [[XML]] data.

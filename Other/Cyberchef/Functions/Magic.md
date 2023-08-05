@@ -1,0 +1,1 @@
+Identify the file type based on magic numbers.

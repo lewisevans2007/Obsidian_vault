@@ -1,0 +1,1 @@
+Compute Adler-32 checksum.

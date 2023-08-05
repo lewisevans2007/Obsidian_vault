@@ -1,0 +1,1 @@
+Perform XOR decryption with a single-byte key.

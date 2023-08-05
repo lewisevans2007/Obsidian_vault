@@ -1,0 +1,1 @@
+Decompress data using [[Gzip]].
