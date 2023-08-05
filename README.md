@@ -4,7 +4,7 @@ This is my [Obsidian](https://obsidian.md) Vault. It contains all my research no
 
 ## Stats
 
-In this vault there are: `583` pages and `1286` links
+In this vault there are: `631` pages and `1358` links
 
 > **Note**
 > Some of the notes are direct copies from other sources. I have tried to link to the original source where possible. If you find any notes that are not properly attributed, please make a issue on this repository with the markdown file name.
