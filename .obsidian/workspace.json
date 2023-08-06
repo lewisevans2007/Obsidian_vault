@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d6e86e02529284f",
+        "id": "ac5645065bad3d75",
         "type": "tabs",
         "children": [
           {
-            "id": "858f0fc3b86a0045",
+            "id": "8d39b8e35ed30e79",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -198,8 +198,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "858f0fc3b86a0045",
+  "active": "8d39b8e35ed30e79",
   "lastOpenFiles": [
+    "Other/database.md",
+    "Other/Oracle.md",
+    "Other/Macro.md",
+    "Other/GitLab.md",
+    "Operating Systems/Linux/Kernel/Linux kernel error codes.md",
+    "README.md",
     "Other/Cyberchef/Functions/Regular expression.md",
     "Other/Cyberchef",
     "Other/Cyberchef/Functions/Negative.md",
@@ -222,11 +228,6 @@
     "Other/Cyberchef/Functions/XOR Brute Force.md",
     "Other/Cyberchef/Functions/URL Encode.md",
     "Other/Cyberchef/Functions/URL Decode.md",
-    "Other/Cyberchef/Functions/Translate.md",
-    "Other/Cyberchef/Functions/Swap Endianness.md",
-    "Other/Cyberchef/Functions/SHA-256.md",
-    "Other/Cyberchef/Functions/SHA-1.md",
-    "Other/Cyberchef/Functions/Rotate 13.md",
     "Cybersecurity/ATT&CK/Tactics",
     "Cybersecurity/ATT&CK",
     "Cybersecurity/Attacking methods/Password attacks",

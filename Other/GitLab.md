@@ -1,1 +1,1 @@
-Git lab is a similar service to [[GitHub]] but it is self-hosted. It is a web-based Git repository manager with wiki and issue tracking features.
+Gitlab is a similar service to [[GitHub]] but it is self-hosted. It is a web-based [[Git]] repository manager with wiki and issue tracking features.
