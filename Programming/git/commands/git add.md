@@ -1,1 +1,1 @@
-Git add is a command to add files to the staging area. It is the first step in the git workflow. After adding files, you can commit them to the repository.
+[[Git]] add is a command to add files to the staging area. It is the first step in the git workflow. After adding files, you can commit them to the repository.

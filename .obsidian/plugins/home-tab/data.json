@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Other/database.md",
-      "timestamp": 1691345331666
+      "filepath": "Programming/git/Git.md",
+      "timestamp": 1691422626083
     },
     {
-      "filepath": "Other/Oracle.md",
-      "timestamp": 1691345315382
+      "filepath": "Programming/git/commands/git log.md",
+      "timestamp": 1691422624487
     },
     {
-      "filepath": "Other/Macro.md",
-      "timestamp": 1691345307324
+      "filepath": "Programming/git/commands/git status.md",
+      "timestamp": 1691422621961
     },
     {
-      "filepath": "Other/GitLab.md",
-      "timestamp": 1691345294103
+      "filepath": "Programming/git/commands/git merge.md",
+      "timestamp": 1691422619387
     },
     {
-      "filepath": "Operating Systems/Linux/Kernel/Linux kernel error codes.md",
-      "timestamp": 1691312974150
+      "filepath": "Programming/git/commands/git checkout.md",
+      "timestamp": 1691422615270
     }
   ],
   "starredFileStore": [],

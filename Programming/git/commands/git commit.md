@@ -1,1 +1,1 @@
-Git commit is a command to record changes to the repository. It creates a new commit containing the changes, along with a log message from the user describing the changes.
+[[Git]] commit is a command to record changes to the repository. It creates a new commit containing the changes, along with a log message from the user describing the changes.

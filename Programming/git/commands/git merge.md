@@ -1,1 +1,1 @@
-Git merge merges commits from one branch into another. The target of the merge is always the currently checked out HEAD branch. The source of the merge can be any branch with a reference. Merging is a fundamental operation that joins two branches together. 
+[[Git]] merge merges commits from one branch into another. The target of the merge is always the currently checked out HEAD branch. The source of the merge can be any branch with a reference. Merging is a fundamental operation that joins two branches together. 

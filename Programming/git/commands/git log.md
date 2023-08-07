@@ -1,1 +1,1 @@
-Git log shows the commit history of the current branch. It shows the commit hash, the author, the date, and the commit message. It can be used to find the commit hash of a previous commit, which can be used to checkout to that commit.
+[[Git]] log shows the commit history of the current branch. It shows the commit hash, the author, the date, and the commit message. It can be used to find the commit hash of a previous commit, which can be used to checkout to that commit.

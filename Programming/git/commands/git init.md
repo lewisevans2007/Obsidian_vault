@@ -1,1 +1,1 @@
-Git init stands for initialise and is a command to create a new repository. It is the first step in the git workflow. After initialising a repository, you can add files to it and commit those files to the repository. 
+[[Git]] init stands for initialise and is a command to create a new repository. It is the first step in the git workflow. After initialising a repository, you can add files to it and commit those files to the repository. 
