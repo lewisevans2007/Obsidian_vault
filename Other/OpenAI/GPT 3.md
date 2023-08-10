@@ -1,0 +1,1 @@
+GPT3 (Generative Pre-trained Transformer) Is the third version of [[OpenAI|OpenAI's]] [[ChatGPT]].

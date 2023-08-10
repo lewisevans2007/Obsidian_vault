@@ -1,0 +1,1 @@
+GPT4 (Generative Pre-trained Transformer) Is the fourth version of [[OpenAI|OpenAI's]] [[ChatGPT]].
