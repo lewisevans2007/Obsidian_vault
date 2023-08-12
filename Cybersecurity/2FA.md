@@ -1,1 +1,1 @@
-Requiring multiple forms of verification to access accounts. Also known as [[Multi-Factor Authentication]]
+Requiring multiple forms of verification to access accounts. Also known as [[Multi-Factor Authentication]]. This can include a code sent to another device or clicking a link that was sent in a email.

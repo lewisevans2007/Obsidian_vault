@@ -2,7 +2,7 @@
 Microsoft is a multinational technology company founded by Bill Gates and Paul Allen in 1975. It is headquartered in Redmond, Washington, United States. Microsoft is one of the largest and most influential companies in the tech industry, known for its software products, services, and hardware devices.
 
 ## Services by Microsoft
-- Microsoft [[Windows]] (Operating System)
+- Microsoft [[Windows]] ([[Operating System]])
 - [[Microsoft Office]] (Productivity Suite)
 - Microsoft [[Azure]] (Cloud Computing Platform)
 - Microsoft [[Visual Studio ]](Development Tools)
@@ -17,7 +17,7 @@ Microsoft is a multinational technology company founded by Bill Gates and Paul A
 - [[GitHub]] (Code Repository and Collaboration Platform)
 - [[Minecraft]] (Game)
 - [[Power BI]] (Business Intelligence and Data Visualization)
-- [[Bing]] (Search Engine)
+- [[Bing]] ([[Search Engine]])
 - [[Outlook.com]] (Email Service)
 - [[OneDrive]] (Cloud Storage)
 - Microsoft [[Edge]] (Web Browser)
