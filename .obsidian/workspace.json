@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40a3947177209927",
+        "id": "4e63d3545bd2be70",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7467f4b6a49670",
+            "id": "41b7772301531192",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -198,8 +198,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1e7467f4b6a49670",
+  "active": "41b7772301531192",
   "lastOpenFiles": [
+    "Other/Embedded device.md",
+    "Other/GitLab.md",
     "Cybersecurity/2FA.md",
     "Cybersecurity/Cyber Threat Intelligence.md",
     "Other/Microsoft/Azure/Azure Kubernetes Service.md",
@@ -217,7 +219,6 @@
     "Other/OpenAI/GPT 4.md",
     "Other/OpenAI/OpenAI.md",
     "Other/OpenAI/GPT 3.md",
-    "Other/Embedded device.md",
     "Other/Latency.md",
     "Other/Macro.md",
     "Operating Systems/Linux/Kernel/PID/pid.c.md",
@@ -225,7 +226,6 @@
     "Programming/git/commands/git log.md",
     "Programming/git/commands/git status.md",
     "Programming/git/commands/git merge.md",
-    "Programming/git/commands/git checkout.md",
     "Other/Cyberchef",
     "Other/Cyberchef/Functions",
     "Cybersecurity/ATT&CK/Tactics",

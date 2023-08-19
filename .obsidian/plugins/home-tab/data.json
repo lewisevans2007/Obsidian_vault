@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Other/Embedded device.md",
+      "timestamp": 1692430812341
+    },
+    {
+      "filepath": "Other/GitLab.md",
+      "timestamp": 1692430810631
+    },
+    {
       "filepath": "Cybersecurity/2FA.md",
       "timestamp": 1691820471356
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Other/Microsoft/Azure/Azure Kubernetes Service.md",
       "timestamp": 1691820457847
-    },
-    {
-      "filepath": "Other/Microsoft/Azure/Azure Cosmos DB.md",
-      "timestamp": 1691820450345
-    },
-    {
-      "filepath": "Other/Microsoft/Azure/Azure.md",
-      "timestamp": 1691820447881
     }
   ],
   "starredFileStore": [],
