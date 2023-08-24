@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Other/Embedded device.md",
-      "timestamp": 1692430812341
+      "filepath": "Cybersecurity/Firewall.md",
+      "timestamp": 1692873525727
     },
     {
-      "filepath": "Other/GitLab.md",
-      "timestamp": 1692430810631
-    },
-    {
-      "filepath": "Cybersecurity/2FA.md",
-      "timestamp": 1691820471356
-    },
-    {
-      "filepath": "Cybersecurity/Cyber Threat Intelligence.md",
-      "timestamp": 1691820468925
-    },
-    {
-      "filepath": "Other/Microsoft/Azure/Azure Kubernetes Service.md",
-      "timestamp": 1691820457847
+      "filepath": "README.md",
+      "timestamp": 1692606422430
     }
   ],
   "starredFileStore": [],

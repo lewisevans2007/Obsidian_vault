@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e63d3545bd2be70",
+        "id": "d0cdcd4ba30dd539",
         "type": "tabs",
         "children": [
           {
-            "id": "41b7772301531192",
+            "id": "8d6c9642508a0e3c",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -157,7 +157,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5196201548362916,
+                  "scale": 0.14635272172649652,
                   "close": true
                 }
               }
@@ -198,8 +198,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "41b7772301531192",
+  "active": "8d6c9642508a0e3c",
   "lastOpenFiles": [
+    "router.md",
+    "Cybersecurity/router.md",
+    "Cisco.md",
+    "Other/Cisco.md",
+    "switch.md",
+    "Cybersecurity/Firewall.md",
+    "README.md",
     "Other/Embedded device.md",
     "Other/GitLab.md",
     "Cybersecurity/2FA.md",
@@ -215,17 +222,10 @@
     "Other/Microsoft/Edge.md",
     "Other/Microsoft/Microsoft.md",
     "Other/Microsoft/GitHub.md",
-    "README.md",
     "Other/OpenAI/GPT 4.md",
     "Other/OpenAI/OpenAI.md",
     "Other/OpenAI/GPT 3.md",
     "Other/Latency.md",
-    "Other/Macro.md",
-    "Operating Systems/Linux/Kernel/PID/pid.c.md",
-    "Programming/git/Git.md",
-    "Programming/git/commands/git log.md",
-    "Programming/git/commands/git status.md",
-    "Programming/git/commands/git merge.md",
     "Other/Cyberchef",
     "Other/Cyberchef/Functions",
     "Cybersecurity/ATT&CK/Tactics",

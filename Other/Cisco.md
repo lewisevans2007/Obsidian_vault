@@ -1,0 +1,1 @@
+Cisco is a company that makes networking equipment. They have a lot of products, but the most common ones are [[router|routers]] and [[switch|switches]]. They also make [[firewall|firewalls]], wireless access points, and other devices.
