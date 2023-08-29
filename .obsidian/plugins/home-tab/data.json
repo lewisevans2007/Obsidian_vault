@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Cybersecurity/Firewall.md",
-      "timestamp": 1692873525727
+      "filepath": "README.md",
+      "timestamp": 1693310759759
     },
     {
-      "filepath": "README.md",
-      "timestamp": 1692606422430
+      "filepath": "Other/Microsoft/Visual Studio.md",
+      "timestamp": 1693310643371
+    },
+    {
+      "filepath": "Programming/debugging.md",
+      "timestamp": 1693310639919
+    },
+    {
+      "filepath": "Other/Microsoft/Azure/Azure.md",
+      "timestamp": 1693309821177
+    },
+    {
+      "filepath": "Other/Microsoft/Azure/Azure Active Directory.md",
+      "timestamp": 1693309661549
     }
   ],
   "starredFileStore": [],

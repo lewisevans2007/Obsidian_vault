@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0cdcd4ba30dd539",
+        "id": "a47c6a743be66234",
         "type": "tabs",
         "children": [
           {
-            "id": "8d6c9642508a0e3c",
+            "id": "8f080ef8af0e0743",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -198,22 +198,26 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8d6c9642508a0e3c",
+  "active": "8f080ef8af0e0743",
   "lastOpenFiles": [
+    "README.md",
+    "Other/Microsoft/Visual Studio.md",
+    "Programming/debugging.md",
+    "Other/Microsoft/Azure/Azure.md",
+    "SSO.md",
+    "Other/Microsoft/Azure/Azure Active Directory.md",
     "router.md",
     "Cybersecurity/router.md",
     "Cisco.md",
     "Other/Cisco.md",
     "switch.md",
     "Cybersecurity/Firewall.md",
-    "README.md",
     "Other/Embedded device.md",
     "Other/GitLab.md",
     "Cybersecurity/2FA.md",
     "Cybersecurity/Cyber Threat Intelligence.md",
     "Other/Microsoft/Azure/Azure Kubernetes Service.md",
     "Other/Microsoft/Azure/Azure Cosmos DB.md",
-    "Other/Microsoft/Azure/Azure.md",
     "Other/Microsoft/Office/Microsoft Access.md",
     "Other/Microsoft/Office/Microsoft Excel.md",
     "Other/Microsoft/Office/Microsoft Office.md",
@@ -222,10 +226,6 @@
     "Other/Microsoft/Edge.md",
     "Other/Microsoft/Microsoft.md",
     "Other/Microsoft/GitHub.md",
-    "Other/OpenAI/GPT 4.md",
-    "Other/OpenAI/OpenAI.md",
-    "Other/OpenAI/GPT 3.md",
-    "Other/Latency.md",
     "Other/Cyberchef",
     "Other/Cyberchef/Functions",
     "Cybersecurity/ATT&CK/Tactics",
