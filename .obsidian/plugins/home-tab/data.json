@@ -25,23 +25,19 @@
   "recentFilesStore": [
     {
       "filepath": "README.md",
-      "timestamp": 1693310759759
+      "timestamp": 1693492159016
     },
     {
-      "filepath": "Other/Microsoft/Visual Studio.md",
-      "timestamp": 1693310643371
+      "filepath": "Programming/Assembly.md",
+      "timestamp": 1693492089561
     },
     {
-      "filepath": "Programming/debugging.md",
-      "timestamp": 1693310639919
+      "filepath": "Cybersecurity/Vulnerabilities/CVE/CVE-2017-12629.md",
+      "timestamp": 1693492073493
     },
     {
-      "filepath": "Other/Microsoft/Azure/Azure.md",
-      "timestamp": 1693309821177
-    },
-    {
-      "filepath": "Other/Microsoft/Azure/Azure Active Directory.md",
-      "timestamp": 1693309661549
+      "filepath": "Cybersecurity/Vulnerabilities/CVE/CVE.md",
+      "timestamp": 1693492061811
     }
   ],
   "starredFileStore": [],
